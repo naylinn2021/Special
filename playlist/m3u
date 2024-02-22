@@ -576,7 +576,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0141/DASH/V0141.mpd
 =====================================
 =====================================
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="TEST", live sport test
+#EXTINF:1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="TEST", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://nonton.maeda.top/?m=1
 https://luanjingkalaubacaini.kawaguchimaeda.my.id:2087/3/irdeto_com_Channel_729/output/manifest.mpd
