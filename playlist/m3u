@@ -165,7 +165,7 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="http://xemtruyenhinh.xyz/image/k-sport1.png" group-title="4-SPORT", K+ Sport HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.kplus.vn
-http://viettel.nekocdn.xyz/ksport2/tracks-v1a1/mono.m3u8
+http://viettel.nekocdn.xyz/ksport1/tracks-v1a1/mono.m3u8
 
 #####################################
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD " tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="4-SPORT",Star Sports Select 1 HD 
