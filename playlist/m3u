@@ -588,6 +588,6 @@ https://w9n761.cdnedge.live/file/avple-asserts/hls/65d6f3eeaf5bd360d52cc059/play
 
 #EXTINF:1 tvg-id="TEST" tvg-logo="_" group-title="TEST", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.pyoneplay.com/livetv
+#EXTVLCOPT:http-referrer=https://www.pyoneplay.com/
 https://pp-live.b-cdn.net/bcdn_token=p9CsolCCLWsS_0g46UQXbEhWNlWYyCg-Pn1qi0CDuHA&expires=1708607245&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 
