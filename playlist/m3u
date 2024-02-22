@@ -126,23 +126,37 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="4-SPORT", True Premier HD 4
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="4-SPORT", True Premier HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD 4
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD " tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="4-SPORT",Star Sports Select 1 HD 
 http://watchindia.net:8880/live/72695/24354/2292.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="4-SPORT",Star Sports Select 2 HD
-http://watchindia.net:8880/live/72695/24354/1070.ts
+http://watchindia.net:8880/live/72695/24355/1070.ts
 
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="4-SPORT",WWE
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1698
-
+##########################################################################
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",ThorGodofThunder2022
 http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="5-MMSUBMOVIES",DoctorStrange
