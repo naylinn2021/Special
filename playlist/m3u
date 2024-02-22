@@ -18,7 +18,7 @@
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="1-BUDDHA",မဟာဗောဓိ
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
-
+##########################################################################
  
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="2-FREE MM",MRTV HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
@@ -98,7 +98,7 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCSbkpGolOk8nB0cLMxaycs/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBAAw-bJuE1qtXoMVtd9lKg/ts
 #EXTINF:-1 xui-id="6520" tvg-id="" tvg-name="MVTV Myanmar" tvg-logo="https://www.dropbox.com/scl/fi/bwuqitmaoi95h8190v6w6/dd-g_20231113_205457_0000.jpg?rlkey=zxqj6k4uss8v7rf1byvylcxi9&dl=1" group-title="2-FREE MM",MVTV Myanmar
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPh9wEKHIEXJ3lbR6RTeAYg/ts
-
+##########################################################################
 #EXTINF:-1 xui-id="71" tvg-id="" tvg-name="TRUE 1 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="4-SPORT",1_TRUE 1 HD
 https://edge2.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 xui-id="72" tvg-id="" tvg-name="TRUE 2 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="4-SPORT",2_TRUE 1 HD
@@ -136,17 +136,17 @@ https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD3
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="4-SPORT", True Premier HD3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD4
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="4-SPORT", True Premier HD4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="4-SPORT", True Premier HD5
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="4-SPORT", True Premier HD5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
