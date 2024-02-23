@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ချန်ပီယံလိဒ်
-
+#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",LIVE
+https://cdnlive.n2olabs.pro/1629318022/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",EPL
+#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",LIVE
 
 
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1vhko1eBGMHQ1-Yue7BoqYTrwuvaFzzVPKshi7uxZnrvSwfvpTgrWj4au5o7a4LbenRf5mwdYtXXTFCsk72utiMAe7j9WbJwMZcFvSizkvJblnuXtf2yWJ40uXC5dI6t7VISWE2J2Et5dyjBd_F1h_Az1GtMgypSZ5ug3oc5X4T9qC4yw78OTYNJwbFVe/s720/1708418108550.jpg" group-title="01 LIVE", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://heartangtv.com/dooball/
-
+#EXTVLCOPT:http-referrer=https://amzstream.tv/live/streaming
+https://cdnlive.n2olabs.pro/1629318022/index.m3u8
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
