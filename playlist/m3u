@@ -602,7 +602,23 @@ https://w9n761.cdnedge.live/file/avple-asserts/hls/65d6f3eeaf5bd360d52cc059/play
 #EXTVLCOPT:http-referrer=https://jable.tv/
 https://amuse-lefty.mushroomtrack.com/hls/ob3jURmEDgpuIFMXjrZmAg/1708717781/39000/39719/39719.m3u8
 
+#EXTINF:1 tvg-id="18xxx" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39642/preview.jpg" group-title="18xxx",MUKD-501
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://jable.tv/
+https://asf-doc.mushroomtrack.com/hls/nJuwVvDTaRqd8kjL6Bx8Ag/1708719137/39000/39642/39642.m3u8
 
+#EXTINF:1 tvg-id="18xxx" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39695/preview.jpg" group-title="18xxx",STARS-998
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://jable.tv/
+https://astin-cowing.mushroomtrack.com/hls/mq1q6eVWxXqopAzqcGzX9A/1708719209/39000/39695/39695.m3u8
+
+#EXTINF:1 tvg-id="18xxx" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39698/preview.jpg" group-title="18xxx",START-028
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://jable.tv/
+https://homi-doki-mani.mushroomtrack.com/hls/NZ-_ubu_Yb4HfouIQbxY_w/1708719179/39000/39698/39698.m3u8
+
+
+##########################################################################
 #EXTINF:1 tvg-id="TEST" tvg-logo="https://365tvda.com/player/channel/OCN%20MOVIES.png" group-title="TEST",OCN MOVIES1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://jable.tv/
