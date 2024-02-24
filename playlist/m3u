@@ -8,7 +8,7 @@ https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=106461b0313e1f2a
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://heartangtv.com/dooball/?id=65d56f40673fa895c63df105&id_league=6320c95ad3cc66f6af1b6cf6&ch=1
+#EXTVLCOPT:http-referrer=https://heartangtv.com/dooball/
 https://sttv169.xyz/cloud/stream/a744e162a9824eddb5fd9f40e338caed/6/index.m3u8?username=max-traangball-PDmXk915IG&password=kcjvPkHRGv
 
 ##########################################################################
