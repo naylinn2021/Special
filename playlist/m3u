@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",LIVE
-https://pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1708790112-0-0-a1a9298a5f4f6937a20d1b9e418b3957#skip
+https://flex2.xyz/live/zone-11/chunks.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",LIVE
-https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=106461b0313e1f2a6992f050ac0af208&txTime=65da5772#skip
+https://xzbonlinepull.pq8.co/live/hd-zh-1-3936488.m3u8?txSecret=3eec718ef7e585b46ca0ea19a1437b68&txTime=1708796150
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
