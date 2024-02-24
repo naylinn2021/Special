@@ -627,6 +627,22 @@ https://adoda-smart-coin.mushroomtrack.com/hls/P6wfxMgy5U2s-kLuXkm9vQ/1708806665
 #EXTVLCOPT:http-referrer=https://jable.tv/
 https://asf-doc.mushroomtrack.com/hls/muq_u7c8JCV4HlITNv3Cig/1708807415/39000/39737/39737.m3u8
 
+#EXTINF:1 tvg-id="18xxx" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39742/preview.jpg" group-title="18xxx",FSDSS-749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://jable.tv/
+https://hot-box-gen.mushroomtrack.com/hls/H732ihkZmPaoLwoVLPC_yQ/1708809843/39000/39742/39742.m3u8
+
+#EXTINF:1 tvg-id="18xxx" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39735/preview.jpg" group-title="18xxx",ABF-079
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://jable.tv/
+https://amuse-lefty.mushroomtrack.com/hls/_gMzjfCVEgv5VuauOuV6MQ/1708809950/39000/39735/39735.m3u8
+
+#EXTINF:1 tvg-id="18xxx" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39707/preview.jpg" group-title="18xxx",SDNM-442
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://jable.tv/
+https://asutin-billion.mushroomtrack.com/hls/sH4ln23hawAF-lCwPXbcGA/1708809989/39000/39707/39707.m3u8
+
+
 ##########################################################################
 #EXTINF:1 tvg-id="TEST" tvg-logo="https://365tvda.com/player/channel/OCN%20MOVIES.png" group-title="TEST",OCN MOVIES1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
