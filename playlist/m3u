@@ -6,7 +6,7 @@ https://pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1708790112-0-0-a1a
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",LIVE
 https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=106461b0313e1f2a6992f050ac0af208&txTime=65da5772#skip
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1vhko1eBGMHQ1-Yue7BoqYTrwuvaFzzVPKshi7uxZnrvSwfvpTgrWj4au5o7a4LbenRf5mwdYtXXTFCsk72utiMAe7j9WbJwMZcFvSizkvJblnuXtf2yWJ40uXC5dI6t7VISWE2J2Et5dyjBd_F1h_Az1GtMgypSZ5ug3oc5X4T9qC4yw78OTYNJwbFVe/s720/1708418108550.jpg" group-title="01 LIVE", live sport test
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://2sport.tv/match/live-manchester-united-vs-fulham-1708786800
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F9%2Findex.m3u8&token=2d64d76a5da2f32fe50e6e70fda32d3300fa92c6&is_vip=false&verify=1708776000-g6pPEPD22%2BwOM%2BKoVqr%2BdSevUQA7VCzfgEGj0E1jp%2FQ%3D
