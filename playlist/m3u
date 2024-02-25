@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LIVE SPORT" tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="01 LIVE.", ဘရော်နီကာ🇲🇲 🆚 🇹🇭Fahsai
+#EXTINF:-1 tvg-name="LIVE SPORT" tvg-id="CH8.th" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="01 LIVE.", ဘရော်နီကာ🇲🇲 🆚 🇹🇭Fahsai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
 
-#EXTINF:1 tvg-id="LIVE SPORT"
-tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://fin99live.org/fixtures/18842532
