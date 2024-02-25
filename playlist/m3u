@@ -29,8 +29,8 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0013/DASH/B0013.mpd
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/SJ4w9nj.jpeg" group-title="01 LIVE", Premier League_Wolverhampton vs Sheffield 08:00PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://fin99live.org/fixtures/18842532
-https://dolive.thaim3u.com/O4bE93ADpxWBkny6ecQgooc7cBhiPmw9/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI0IDc6NDc6MzYgQU0maGFzaF92YWx1ZT1hREQxOWR2ek5mVldWWVJJVFBRZWlRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
+https://pull01.rrwes.live/live/stream-9912077_lsd.m3u8?txSecret=cbf90e20e953c038bd338307dd7f7bdc&txTime=65db8f66#skip
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
