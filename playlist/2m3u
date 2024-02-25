@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", leverkusen-vs-fsv-mainz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://fin99live.org/fixtures/18842532
+https://dolive.thaim3u.com/O4bE93ADpxWBkny6ecQgooc7cBhiPmw9/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI0IDc6NDc6MzYgQU0maGFzaF92YWx1ZT1hREQxOWR2ek5mVldWWVJJVFBRZWlRPT0mdmFsaWRtaW51dGVzPTYw
+
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE",sporting charleroi-vs-genk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://2sport.tv/match/live-sporting-charleroi-vs-genk-1708717500
+https://livecdn-bp.rumsport.com/stream/44/chunks.m3u8?x-sign=435711cba94f178a5087966bda4a83e3&x-time=1708717380&is_vip=false&token=ac8bf1dae3d4bc7bae8fd86d25b65056b698a676
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE",real-sociedad-vs-villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=
+https://mmfootball.cryptken.com/player?url=https%3A%2F%2Fpull.niues.live%2Flive%2Fstream-351530_lsd.m3u8%3Fauth_key%3D1708721650-0-0-001816263995b04996eeb55aa489c3fe%23skip#playing
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1708721650-0-0-001816263995b04996eeb55aa489c3fe#skip
+
