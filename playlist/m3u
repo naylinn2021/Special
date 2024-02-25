@@ -19,6 +19,12 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=924bb7c333361fe4
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
+#EXTVLCOPT:http-referrer=https://chaolua7.live
+https://live.chaolua.top/live/cl_stream03.m3u8?expire=1733980320&sign=41ff7a50301526ed58834c19079d5525
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
 #EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
 https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=7f01b762686fb9c3d4733b65fa9b5803&txTime=65dba4ba#skip
 
