@@ -1,42 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LIVE SPORT" tvg-id="CH8.th" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="01 LIVE.", ဘရော်နီကာ🇲🇲 🆚 🇹🇭Fahsai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
-https://live6.xiangmirong.com/live/57585854.m3u8?auth_key=1708784700-0-244057-715cc468d89be1af7681e05b72da609d
-
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=924bb7c333361fe487777d68a927525c&txTime=65dba4ba#skip
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
-https://ovosss.lol/live/n-2/chunks.m3u8
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
-https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=7f01b762686fb9c3d4733b65fa9b5803&txTime=65dba4ba#skip
-
-#EXTINF:-1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/i9pYph6.jpeg" group-title="01 LIVE", Carabao Cup_Chelsea vs Liverpool 9:30PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0013/DASH/B0013.mpd
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/SJ4w9nj.jpeg" group-title="01 LIVE", Premier League_Wolverhampton vs Sheffield 08:00PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
-https://pull01.rrwes.live/live/stream-9912077_lsd.m3u8?txSecret=cbf90e20e953c038bd338307dd7f7bdc&txTime=65db8f66#skip
 
 
 ##########################################################################
