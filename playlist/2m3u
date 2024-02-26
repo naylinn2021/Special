@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="01 LIVE", Premier League_Wolverhampton vs Sheffield 08:00PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
 https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8
