@@ -9,7 +9,7 @@ http://viettel.nekocdn.xyz/ksport1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1708945750-0-0-517e927b3209a0c63aa386e35ab2c71c
+http://ip168.homeip.net:8086/3.m3u8
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
