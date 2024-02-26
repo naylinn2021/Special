@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="01 LIVE", Premier League_Wolverhampton vs Sheffield 08:00PM
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8
+https://live-eu-cizve9esipliv.thapcam.link/Z1HD/index.m3u8
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE",sporting charleroi-vs-genk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
