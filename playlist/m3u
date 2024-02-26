@@ -659,12 +659,10 @@ https://bf1.semaobf1.com/20230606/3B7CD55E4BFACC46/hls/1500k/index.m3u8
 
 
 ##########################################################################
-#EXTINF:1 tvg-id="TEST" tvg-logo="https://365tvda.com/player/channel/OCN%20MOVIES.png" group-title="TEST",OCN MOVIES1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://jable.tv/
-https://www.jobstv24.com/liveedge/live27/chunklist_w1965095049_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzA4NjI0MjkyJndvd3phdG9rZW5lbmR0aW1lPTE3MDg2MzUwOTImd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj1saXZlMjcmd293emF0b2tlbmhhc2g9aXJseUVpY2FncVNqVWYtakwwbUZPTUROZ3hMU0tMY2I2Z0tBZDFUX3BSQT0=.m3u8?site=yjtv&ch=LIVE27&pm=P
 
-#EXTINF:1 tvg-id="TEST" tvg-logo="https://365tvda.com/player/channel/%ED%95%91%ED%81%AC%ED%95%98%EC%9A%B0%EC%8A%A4.png" group-title="TEST", PINK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://365tvda.com/bbs/page.php?hid=livetv1
-https://www.yjtv007.com/liveedge/live16/chunklist_w1451370376_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzA4NjI1NjE4Jndvd3phdG9rZW5lbmR0aW1lPTE3MDg2MzY0MTgmd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj1saXZlMTYmd293emF0b2tlbmhhc2g9R21GZDZiN2ppRndQMXVpUFoyRzQ3NUJnbmI5ZXE5TjVWcnl3QU5rUkJ3ST0=.m3u8?site=yjtv&ch=LIVE16&pm=P
+
+#EXTINF:1 tvg-id="G⚽LD M⚽VIE" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="TEST G⚽LD M⚽VIE", 天使陷落HD線上看
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://777tv.ai
+https://v1.1080tg.com/202308/19/7nrcGbMPUb2/video/index.m3u8
