@@ -109,8 +109,8 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 xui-id="73" tvg-id="" tvg-name="ManU TV" tvg-logo="https://i.imgur.com/uP3AH8E.png" group-title="4-SPORT",5_MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="REAL TV" tvg-logo="https://i.imgur.com/6VPixaK.jpeg" group-title="4-SPORT",5_MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="REAL TV" tvg-logo="https://i.imgur.com/6VPixaK.jpeg" group-title="4-SPORT",6_REAL TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="4-SPORT", True Premier HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
