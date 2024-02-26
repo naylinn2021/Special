@@ -696,3 +696,14 @@ https://v.gsuus.com/play/Pe9ow7Zb/index.m3u8
 #EXTVLCOPT:http-referrer=https://777tv.ai
 https://v8.suonizy-youku.com/202401/12/0bHFxNRasU1/video/index.m3u8
 
+#EXTINF:1 tvg-id="G⚽LD M⚽VIE" tvg-logo="https://img.1777cdn.com/upload/vod/20230921-1/9b50c8705a7baa57e680d1fba6ec29ac.jpg" group-title="TEST G⚽LD M⚽VIE", 浴血任務4：最終章HD線上看
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://777tv.ai
+https://v3.1080tg.com/202310/14/X6DvDgcKnF1/video/original/hls/index.m3u8
+
+#EXTINF:1 tvg-id="G⚽LD M⚽VIE" tvg-logo="https://img.1777cdn.com/upload/vod/20230919-1/53603450645aa283d984544e7386480a.jpg" group-title="TEST G⚽LD M⚽VIE", 子不語：夜行郎HD線上看 - 小鴨影音
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://777tv.ai
+https://s5.bfzycdn.com/video/zibuyuyexinglang/HD/index.m3u8
