@@ -684,8 +684,15 @@ https://v8.suonizy-youku.com/202310/12/YUdzbFvrTX1/video/index.m3u8
 #EXTVLCOPT:http-referrer=https://777tv.ai
 https://v.gsuus.com/play/vbmm48Eb/index.m3u8
 
-#EXTINF:1 tvg-id="G⚽LD M⚽VIE" tvg-logo="https://img.1777cdn.com/upload/vod/20240224-1/0da577cb1e1ee89b8d0d00abe6703fad.jpg" group-title="TEST G⚽LD M⚽VIE", 劇情介紹
+#EXTINF:1 tvg-id="G⚽LD M⚽VIE" tvg-logo="https://img.1777cdn.com/upload/vod/20240223-1/8e1d1eb0340873205b7825f5aece00b2.jpg" group-title="TEST G⚽LD M⚽VIE", 灰 正片
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://777tv.ai
-https://v.gsuus.com/play/vbmm48Eb/index.m3u8
+https://v.gsuus.com/play/Pe9ow7Zb/index.m3u8
+
+#EXTINF:1 tvg-id="G⚽LD M⚽VIE" tvg-logo="https://img.1777cdn.com/upload/vod/20231009-1/179565fdd2968f31145ed169ae541873.jpg" group-title="TEST G⚽LD M⚽VIE", 絕望之路 HD中字
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://777tv.ai
+https://v8.suonizy-youku.com/202401/12/0bHFxNRasU1/video/index.m3u8
+
