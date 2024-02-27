@@ -8,8 +8,8 @@ https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/IVPwa7V.jpeg" group-title="01 LIVE", 2:15AM Blackburn Rovers VS Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://1tools.co
+https://live6.xiangmirong.com/live/75748097.m3u8?auth_key=1708898488-0-247831-5646f0dc20a793e243e8be2393c592ab
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/tEaWVSQ.jpeg" group-title="01 LIVE",2:00AM Bournemouth AFC VS Leicester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
