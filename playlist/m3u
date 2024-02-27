@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/qtdEWZO.jpeg" group-title="01 LIVE", 2:30AM Luton Town VS Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
+https://live-eu-cizve9esipliv.thapcam.link/Z1HD/index.m3u8
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/IVPwa7V.jpeg" group-title="01 LIVE", 2:15AM Blackburn Rovers VS Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/tEaWVSQ.jpeg" group-title="01 LIVE",2:00AM Bournemouth AFC VS Leicester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://2sport.tv/match/live-sporting-charleroi-vs-genk-1708717500
+https://livecdn-bp.rumsport.com/stream/44/chunks.m3u8?x-sign=435711cba94f178a5087966bda4a83e3&x-time=1708717380&is_vip=false&token=ac8bf1dae3d4bc7bae8fd86d25b65056b698a676
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD1 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
