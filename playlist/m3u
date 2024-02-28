@@ -204,10 +204,18 @@ https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 
-#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="http://xemtruyenhinh.xyz/image/k-sport1.png" group-title="4-SPORT", K+ Sport HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=http://xemtruyenhinh.xyz
-http://ip168.homeip.net:8086/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sFvbz3N/digisport.jpg" group-title="4-SPORT",Digi Sport 1
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sFvbz3N/digisport.jpg" group-title="4-SPORT",Digi Sport 2
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2522/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sFvbz3N/digisport.jpg" group-title="4-SPORT",Digi Sport 3
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2524/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9T8wnHn/motorvision.jpg" group-title="4-SPORT",Motorvision TV
+http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&amp;userid=4rr0w&amp;tkn=bl4ck&amp;chname=Motorvision_TV_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBmWRBN/redbull.jpg" group-title="4-SPORT",Redbull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #####################################
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD " tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="4-SPORT",Star Sports Select 1 HD 
