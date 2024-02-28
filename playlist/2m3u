@@ -1,4 +1,4 @@
-"#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="TVRI" tvg-id="TVRI" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
 
