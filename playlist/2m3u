@@ -1,1 +1,86 @@
-http://207.148.120.199:8088/m3u
+#EXTM3U
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/TwLc1tvB/Astro-Supersport.png", ASTRO SUPERSPORT 3(MY)
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/RVqDfLQC/HUB-Sports1.png", HUB SPORT PREMIER 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png", TRUE SPORT PREMIER 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png", TRUE SPORT PREMIER 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115508_&extension=ts
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png", True Premier Football 1(TH)
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162591
+ 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png", True Premier Football 2(TH)
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162592
+ 
+#EXTINF:-1 group-title="Sport" tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png", BeINSport PREMIUM 1 Primier
+http://magott.net:80/okota380/RvPBwTrjvRPM/45
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="", SENTANTA TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png", Astro SuperSport(MY)
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png", Astro SuperSport 2(MY)
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png", Astro SuperSport 3(MY)
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="", STAR SPORTS SELECT 1(IN) (4K).
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/98867.ts
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png", DAZN 1(ES)
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108258
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png", DAZN 2(ES)
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108259
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png", MNC Sports 3
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png", MNC Sports 3
+https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png", SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+ 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png", SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/3wDhBHXR/be-IN-SPORTS1.png", beIN Sports 1(ID)
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165105
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/HkndrMjb/be-IN-SPORTS3.png", beIN Sports 3(ID)
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298506
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png", beIN Sports  2 English
+http://aanax.com:8080/zaintree99/90b391e5/111
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png", beIN Sports  3 English
+http://aanax.com:8080/zaintree99/90b391e5/267769
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/TwLc1tvB/Astro-Supersport.png", ASTRO SUPERSPORT 4
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/TwLc1tvB/Astro-Supersport.png", ASTRO SUPERSPORT 5
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
+
+
