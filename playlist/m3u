@@ -13,14 +13,20 @@ https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1709074751-0-0-7b0
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/JVXqtQj.jpeg" group-title="01 LIVE", 2:15AM Nottingham Forest VS Manchester
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=585f4c145891bf2064dcab492312bc16&txTime=65de8fae#skip
+#EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=45a38e51b5052804857cbb482b59851f&txTime=65dfe0b6
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/JVXqtQj.jpeg" group-title="01 LIVE", 2:15AM Nottingham Forest VS Manchester
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://m.yyzbtv8.com
-https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1709068812-0-0-a192072648b94762e3a4371cfeb7725e
+#EXTVLCOPT:http-referrer=https://1tools.co
+https://live6.xiangmirong.com/live/33982309.m3u8?auth_key=1708997101-0-243943-5f02d57c286ca65b599b8553aee90f68
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/JVXqtQj.jpeg" group-title="01 LIVE", 2:15AM Nottingham Forest VS Manchester
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8
 
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/80x5Cv9.jpeg" group-title="01 LIVE", 2:15AM Wolves VS Brighton Hove Albion
