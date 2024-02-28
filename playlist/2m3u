@@ -27,9 +27,9 @@ https://flex2.xyz/live/zone-11/chunks.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",LIVE
-https://xzbonlinepull.pq8.co/live/hd-zh-1-3936488.m3u8?txSecret=3eec718ef7e585b46ca0ea19a1437b68&txTime=1708796150
+https://gitlab.com/g-ld-tv/gold-tv-pro/-/raw/5bddbcd59e5026d2b15a896cfff66150db779f96/inbound2152170607544134493.mp4?inline=false
 
 
 #EXTINF:-1 tvg-name="CH8" tvg-id="CH8.th" tvg-logo="https://i.imgur.com/q1kM4KK.jpeg" group-title="AIS/Digital TV.", ဘရော်နီကာ🇲🇲 🆚 🇹🇭Fahsai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
+https://gitlab.com/g-ld-tv/gold-tv-pro/-/raw/5bddbcd59e5026d2b15a896cfff66150db779f96/inbound2152170607544134493.mp4?inline=false
