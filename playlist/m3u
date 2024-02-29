@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://the-nayeemparvez.xyz/jiotvnew/app/play.php?cid=Cartoon_Network_Telugu&id=166
-https://the-nayeemparvez.xyz/jiotvnew/app/live.php?id=166&e=.m3u8
+https://the-nayeemparvez.xyz/jiotvnew/app/live.php?id=166
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/o3mzTLq.jpeg" group-title="01 LIVE", 2:00AM Chelsea VS Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
