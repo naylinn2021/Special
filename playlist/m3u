@@ -27,8 +27,8 @@ https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may111/playlist.m3u8
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/mb1StjH.jpeg" group-title="01 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
-http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
+#EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1709326571-0-0-f0f2b07e61d1b3970dd217fd9b084ce9
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
