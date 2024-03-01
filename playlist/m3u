@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD3 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/abESkkL.jpeg" group-title="01 LIVE", HD1 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://209.222.97.92:16493/
 http://209.222.97.92:16493/
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD1 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/0A8ZWVL.jpeg" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.mewatch.sg/
 https://d10snd9om7537l.cloudfront.net:443/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD2 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/TQLu55W.jpeg" group-title="01 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
 http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
 
-#EXTINF:-1 tvg-id="LIVE SPORT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="01 LIVE", HD4 LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0018/DASH/B0018.mpd
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/mb1StjH.jpeg" group-title="01 LIVE", HD4 LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
+http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
