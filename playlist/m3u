@@ -23,7 +23,6 @@ https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1709325971-0-0-efe
 https://pull.niues.live/live/stream-171964_lhd.m3u8?auth_key=1709326331-0-0-056a5dba0505a5f2d582e4abb7480f8b
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may111/playlist.m3u8
-
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/mb1StjH.jpeg" group-title="01 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
