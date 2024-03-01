@@ -2,7 +2,7 @@
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/o3mzTLq.jpeg" group-title="01 LIVE", 2:00AM Chelsea VS Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=_
+#EXTVLCOPT:http-referrer=http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/146.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/146.ts
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/o3mzTLq.jpeg" group-title="01 LIVE", 2:00AM Chelsea VS Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
