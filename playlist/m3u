@@ -9,8 +9,9 @@ http://209.222.97.92:16493/
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD1 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=http://lb.watchindia.net:8880
-http://lb.watchindia.net:8880/live/17524/03503/1071.m3u8?token=TRINVkBbGwkUAABTVgYDWwsJAAIPA1UPBVoGBltUCwdTUVBVAARYBlMSFRIXQxAGWVVmWlwSWAlWVFQbGhBKBkRvDFMRCRsKBwIBEkgVFgpVXRsJCBxASA8HRw0aVAhRDwdHGxFWQUdTQldRCGgGBk5RWlYaCgxNCg9JFVcLZgdTXQRZVxEDEQYSFRINRBJBAlZMX1QcQFoPFxdWTAAbWRQCXAABERURVV9MXhBFG0ECVkxfVBxAXR4XAFlLDFYNFApHWgBGAREaElBDO0UHEExKXFJVVRAaXEFVFRRHVAJObwZYXV1cUEJZVl4XFVhBCxoVEVVfDFESDBdoSAxdQQwSVwILAg4RSw==
+#EXTVLCOPT:http-referrer=https://www.mewatch.sg/
+https://d10snd9om7537l.cloudfront.net:443/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
