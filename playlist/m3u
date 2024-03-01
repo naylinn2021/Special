@@ -16,8 +16,8 @@ http://148.113.5.31:8106/play/a00g/index.m3u8
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
-http://ip168.homeip.net:8086/3.m3u8
+#EXTVLCOPT:http-referrer=http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
+http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
