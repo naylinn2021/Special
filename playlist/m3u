@@ -1,50 +1,16 @@
 #EXTM3U
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/o3mzTLq.jpeg" group-title="01 LIVE", 2:00AM Chelsea VS Leeds United
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/146.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/146.ts
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/o3mzTLq.jpeg" group-title="01 LIVE", 2:00AM Chelsea VS Leeds United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mmfootball.cryptken.com
-https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1709074751-0-0-7b0aaf74498e182501f55b8fdf774cf2#skip
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/JVXqtQj.jpeg" group-title="01 LIVE", 2:15AM Nottingham Forest VS Manchester
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=45a38e51b5052804857cbb482b59851f&txTime=65dfe0b6
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/JVXqtQj.jpeg" group-title="01 LIVE", 2:15AM Nottingham Forest VS Manchester
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://1tools.co
-https://live6.xiangmirong.com/live/33982309.m3u8?auth_key=1708997101-0-243943-5f02d57c286ca65b599b8553aee90f68
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/JVXqtQj.jpeg" group-title="01 LIVE", 2:15AM Nottingham Forest VS Manchester
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/80x5Cv9.jpeg" group-title="01 LIVE", 2:15AM Wolves VS Brighton Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/t4PYr1U.jpeg" group-title="01 LIVE",2:30AM Liverpool VS Southampton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1709153231-0-0-8904f4c2982d0a489afaa3e1a28ed1db
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD1 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=http://xemtruyenhinh.xyz
-https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1708964832-0-0-20b1bcbb49b99c56ab5a6cc279bf1aa0
+#EXTVLCOPT:http-referrer=http://startv365.com:80/9794783213/6955630461/376465
+http://startv365.com:80/9794783213/6955630461/376465
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://github.com/naylinn2021/HBO/blob/main/received_696291622408721.jpeg?raw=true" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
