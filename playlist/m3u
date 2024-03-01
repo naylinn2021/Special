@@ -17,7 +17,7 @@ https://d10snd9om7537l.cloudfront.net:443/out/v1/3170252e3fb0453085f2f4b0f8401a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
-http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
+https://d10snd9om7537l.cloudfront.net:443/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/mb1StjH.jpeg" group-title="01 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
