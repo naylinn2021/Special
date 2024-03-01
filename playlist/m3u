@@ -12,8 +12,8 @@ https://live.chaolua.top/live/cl_stream06.m3u8?expire=1733980320&sign=41ff7a5030
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/0A8ZWVL.jpeg" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://www.mewatch.sg/
-https://d10snd9om7537l.cloudfront.net:443/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1709325971-0-0-efee05cdb135f3184b0b6dbec73e3e47
 
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/TQLu55W.jpeg" group-title="01 LIVE", HD3 LIVE
