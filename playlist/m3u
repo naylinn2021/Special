@@ -1,33 +1,30 @@
 #EXTM3U
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/abESkkL.jpeg" group-title="01 LIVE", HD1 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/1PrfGfe.jpeg" group-title="01 LIVE", HD1 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 https://pull01.rrwes.live/live/stream-414317_lsd.m3u8?txSecret=3cdd15215f4beebaa10b98f28656666e&txTime=65e27e53#skip
 #EXTVLCOPT:http-referrer=https://aimadventureu.com
 https://live6.xiangmirong.com/live/73081701.m3u8?auth_key=1709173500-0-243937-bdaea695034f0a8e0771ebddbd66f6f1
-#EXTVLCOPT:http-referrer=https://chaolua7.live
-https://live.chaolua.top/live/cl_stream06.m3u8?expire=1733980320&sign=41ff7a50301526ed58834c19079d5525
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/0A8ZWVL.jpeg" group-title="01 LIVE", HD2 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/s1suNnr.jpeg" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1709325971-0-0-efee05cdb135f3184b0b6dbec73e3e47
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/TQLu55W.jpeg" group-title="01 LIVE", HD3 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/clxHHLE.jpeg" group-title="01 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 https://pull.niues.live/live/stream-171964_lhd.m3u8?auth_key=1709326331-0-0-056a5dba0505a5f2d582e4abb7480f8b
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may111/playlist.m3u8
+
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/mb1StjH.jpeg" group-title="01 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1709326571-0-0-f0f2b07e61d1b3970dd217fd9b084ce9
+
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
