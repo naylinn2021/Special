@@ -1029,7 +1029,7 @@ https://s5.bfzycdn.com/video/zibuyuyexinglang/HD/index.m3u8
 https://nlsuper.score806.cc/uk_ssf1/index.m3u8|Referer=https://24hsport.tv/
 
 #EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/39.png" group-title="TEST G⚽LD SP⚽RT",TEST
-https://h9fm5c5g47vj8f4s.cdnministry.net:8443/hls/hqwwgwycxiiy.m3u8?s=sPER3ZGgKGg-1teRIo8veQ&e=1709427953
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8|Referer=http://168.227.22.18:1935
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://hdlivesport.com/wp-content/uploads/2023/12/SKY-sports.jpg" group-title="TEST G⚽LD SP⚽RT", SKY SPORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
