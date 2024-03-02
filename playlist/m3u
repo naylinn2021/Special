@@ -1,14 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/1PrfGfe.jpeg" group-title="01 LIVE", HD1 LIVE
-#EXTVLCOPT:sec-ch-ua:"Not A(Brand";v="99", "Android WebView";v="121", "Chromium";v="121"
-sec-ch-ua-mobile:?1
-Accept:*/*
-sec-ch-ua-platform:"Android"
-Referer:https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-User-Agent:Mozilla/5.0 (Linux; Android 12; CPH2121 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-Accept-Encoding:identity;q=1, *;q=0
-#EXTVLCOPT:http-referrer=https://da-d50d12b5.online.meo.pt
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+
 
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/s1suNnr.jpeg" group-title="01 LIVE", HD2 LIVE
