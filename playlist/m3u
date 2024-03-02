@@ -5,8 +5,8 @@
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/s1suNnr.jpeg" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://linenstandard.net
-https://h9fm5c5g47vj8f4s.cdnministry.net:8443/hls/hqwwgwycxiiy.m3u8?s=sPER3ZGgKGg-1teRIo8veQ&e=1709427953
+#EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/naylinn2021
+https://raw.githubusercontent.com/naylinn2021/Special/main/mpd
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/clxHHLE.jpeg" group-title="01 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
