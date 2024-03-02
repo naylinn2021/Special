@@ -45,16 +45,17 @@ https://m.socolive33.com
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 https://m.socolive33.com
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/clxHHLE.jpeg" group-title="02 LIVE", HD3 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/t902iKf.jpeg" group-title="02 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://m.socolive33.com
 
-
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/mb1StjH.jpeg" group-title="02 LIVE", HD4 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/6kBitK6.jpeg" group-title="02 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://m.socolive33.com
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
