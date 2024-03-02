@@ -1028,7 +1028,11 @@ https://s5.bfzycdn.com/video/zibuyuyexinglang/HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/28.png" group-title="TEST G⚽LD SP⚽RT",Sky Sports F1
 https://nlsuper.score806.cc/uk_ssf1/index.m3u8|Referer=https://24hsport.tv/
 
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/39.png" group-title="TEST G⚽LD SP⚽RT",TEST
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)|Referer=https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/39.png" group-title="TEST G⚽LD SP⚽RT",Sport  TV 4
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/s1suNnr.jpeg" group-title="01 LIVE", HD2 LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=39e6989505a0ff57b10bd47cfc2df3c3&txTime=65e382b7
