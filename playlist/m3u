@@ -1029,10 +1029,7 @@ https://s5.bfzycdn.com/video/zibuyuyexinglang/HD/index.m3u8
 
 ##########################################################################
 
-#EXTINF:1 tvg-id="G⚽LD SP⚽RT" tvg-logo="https://mhdtvsports.net/wp-content/uploads/2023/04/skyf1.png" group-title="TEST G⚽LD SPORT", Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306
-#EXTVLCOPT:http-referrer=https://faketv.co.in
-https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/28.png" group-title="TEST G⚽LD SP⚽RT",Sky Sports F1
+https://nlsuper.score806.cc/uk_ssf1/index.m3u8|Referer=https://24hsport.tv/
 
 
