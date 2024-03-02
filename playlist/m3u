@@ -4,8 +4,7 @@
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 https://pull01.rrwes.live/live/stream-414317_lsd.m3u8?txSecret=3cdd15215f4beebaa10b98f28656666e&txTime=65e27e53#skip
-#EXTVLCOPT:http-referrer=https://aimadventureu.com
-https://live6.xiangmirong.com/live/73081701.m3u8?auth_key=1709173500-0-243937-bdaea695034f0a8e0771ebddbd66f6f1
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/s1suNnr.jpeg" group-title="01 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
