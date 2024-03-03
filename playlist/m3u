@@ -633,9 +633,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+##########################################################################
 
 
-
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/33.png" group-title="8-Portugal CHANNEL",Eleven Sport 1
+https://nlsuper.score806.cc/pt_elevensport1/index.m3u8|Referer=https://24hsport.tv/
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/32.png" group-title="Portugal CHANNEL",Eleven Sport 2
+https://nlsuper.score806.cc/pt_elevensport2/index.m3u8|Referer=https://24hsport.tv/
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="8-Portugal CHANNEL",Eleven Sport 3
+https://nlsuper.score806.cc/pt_elevensport3/index.m3u8|Referer=https://24hsport.tv/
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="Portugal CHANNEL",Sport  TV 1
+https://nlsuper.score806.cc/pt_sporttv1/index.m3u8|Referer=https://24hsport.tv/
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/37.png" group-title="8-Portugal CHANNEL",Sport  TV 2
+https://nlsuper.score806.cc/pt_sporttv2/index.m3u8|Referer=https://24hsport.tv/
+#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/38.png" group-title="8Portugal CHANNEL",Sport  TV 3
+https://nlsuper.score806.cc/pt_sporttv3/index.m3u8|Referer=https://24hsport.tv/
 
 ##########################################################################
 
