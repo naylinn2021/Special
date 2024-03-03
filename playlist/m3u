@@ -13,6 +13,12 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
 #EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
 http://ip168.homeip.net:8086/3.m3u8
 
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://cheesemongersofshermanoaks.com
+https://live6.xiangmirong.com/live/57585854.m3u8?auth_key=1709313900-0-244057-cdee8c3317e950966284987a4182b965
+
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
