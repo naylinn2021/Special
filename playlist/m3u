@@ -6,13 +6,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/naylinn2021
-https://raw.githubusercontent.com/naylinn2021/Special/main/mpd
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/clxHHLE.jpeg" group-title="01 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://linenstandard.net
-https://h9fm5c5g47vj8f4s.cdnministry.net:8443/hls/hqwwgwycxiiy.m3u8?s=sPER3ZGgKGg-1teRIo8veQ&e=1709427953
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/mb1StjH.jpeg" group-title="01 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
@@ -24,34 +24,34 @@ https://h9fm5c5g47vj8f4s.cdnministry.net:8443/hls/hqwwgwycxiiy.m3u8?s=sPER3ZGgKG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1709394971-0-0-4efcff10f91d073c4ecd3d20b9490031
+
 #EXTVLCOPT:http-referrer=https://chaolua7.live
-https://live.chaolua.top/live/cl_stream07.m3u8?expire=1733980320&sign=41ff7a50301526ed58834c19079d5525
+
 #EXTVLCOPT:http-referrer=https://sekiu.com
-https://live6.xiangmirong.com/live/68848594.m3u8?auth_key=1709360701-0-243936-80943123d8e6da9c3f6fded60b4eb4cc
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/LhtMfIq.jpeg" group-title="02 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=5c9527d1a715335d6289122529ac3052&txTime=65e392a7
+
 #EXTVLCOPT:http-referrer=https://chaolua7.live
-https://live.chaolua.top/live/cl_stream03.m3u8?expire=1733980320&sign=41ff7a50301526ed58834c19079d5525
+
 #EXTVLCOPT:http-referrer=https://sekiu.com
-https://live6.xiangmirong.com/live/57585854.m3u8?auth_key=1709313900-0-244057-cdee8c3317e950966284987a4182b965
+
 #EXTVLCOPT:http-referrer=http://bananatv.org:25461
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/t902iKf.jpeg" group-title="02 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull01.rrwes.live/live/stream-9912052_lhd.m3u8?txSecret=d9d3dbd0205b6e4e6be10052e72e4b76&txTime=65e3931f
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/6kBitK6.jpeg" group-title="02 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=d7a388e495d54fdc1fc99ae24531eb3d&txTime=65e392e3
+
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
