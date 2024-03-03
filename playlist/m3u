@@ -17,17 +17,17 @@ http://ip168.homeip.net:8086/3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://m.socolive33.com
-#EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://m.socolive33.com
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1709481851-0-0-c5422140d2306977d0cba5389c489d7e
+#EXTVLCOPT:http-referrer=https://m.yyzbtv8.com
+https://pull.juqihuo.com/live/stream-746673_lhd.flv?auth_key=1709482093-0-0-8e68a03495f4ce1eccd6011d034f421e
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://m.socolive33.com
-#EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://m.socolive33.com
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1709481851-0-0-c5422140d2306977d0cba5389c489d7e
+#EXTVLCOPT:http-referrer=https://m.yyzbtv8.com
+https://pull.juqihuo.com/live/stream-746673_lhd.flv?auth_key=1709482093-0-0-8e68a03495f4ce1eccd6011d034f421e
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/nJGSEE7.jpeg" group-title="01 LIVE", Napoli 02:15 am 04-03-2024 Juventus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
