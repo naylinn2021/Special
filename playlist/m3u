@@ -746,15 +746,17 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/HLS/V
 #EXTINF:-1 tvg-id="france24g.ru", group-title="10-News" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",France24
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/HLS/V0123.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorldPremium" , group-title="10-News" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",NHK World Premium
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
 
-#EXTINF:-1 group-title="10-News" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1600px-CBS_News.svg.png",CBS
-#http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQiULdaNm6fPApE-oYOW7HctRlDFeSZbgIDIn4A6hOIto&s" group-title="10-News", VOA RFA
-#EXTVLCOPT:http-referrer=https://www.ballhd24.live/
-voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://voa-ingest.akamaized.net
+https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="AlJazeeraEnglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1600px-CBS_News.svg.png", group-title="10-News",CBS 
+http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 
 
 
