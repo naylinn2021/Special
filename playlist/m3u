@@ -947,39 +947,40 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
 #KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd
 
-#EXTINF:-1 ch-number="206" tvg-name="Asian Food Network" tvg-id="Asian Food Network.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AIS-พรีเมี่ยม", Asian Food Network
+#EXTINF:-1 ch-number="206" tvg-name="Asian Food Network" tvg-id="Asian Food Network.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AIS | Variety", Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
 
-#EXTINF:-1 ch-number="207" tvg-name="TLC" tvg-id="TLC.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="AISPLAY-พรีเมี่ยม", TLC
+#EXTINF:-1 ch-number="207" tvg-name="TLC" tvg-id="TLC.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="AIS | Variety", TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
 
-#EXTINF:-1 ch-number="209" tvg-name="Global Trekker" tvg-id="Global Trekker.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="AISPLAY-พรีเมี่ยม", Global Trekker
+#EXTINF:-1 ch-number="209" tvg-name="Global Trekker" tvg-id="Global Trekker.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="AIS | Variety", Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c67bc71fc46a9af8e839ac84794f570:5375508840e044432a708c3fba038c05
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd
 
-#EXTINF:-1 ch-number="210" tvg-name="Khong Dee Thailand" tvg-id="Khong Dee Thailand.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="AISPLAY - ดูฟรี", Khong Dee Thailand
+#EXTINF:-1 ch-number="210" tvg-name="Khong Dee Thailand" tvg-id="Khong Dee Thailand.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="AIS | Variety", Khong Dee Thailand
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0154/DASH/V0154.mpd
 
 
-#EXTINF:-1 ch-number="211" tvg-name="Thainess" tvg-id="Thainess.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="AISPLAY - ดูฟรี", Thainess
+#EXTINF:-1 ch-number="211" tvg-name="Thainess" tvg-id="Thainess.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="AIS | Variety", Thainess
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0155/DASH/V0155.mpd
 
 
-#EXTINF:-1 ch-number="251" tvg-name="TechStorm" tvg-id="TechStorm.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TechStorm_new.png" group-title="AISPLAY-พรีเมี่ยม", TechStorm
+#EXTINF:-1 ch-number="251" tvg-name="TechStorm" tvg-id="TechStorm.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TechStorm_new.png" group-title="AIS | Variety", TechStorm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
 
-#EXTINF:-1 ch-number="255" tvg-name="TV5MONDE" tvg-id="TV5MONDE.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/NEWS-ICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TV5MONDEasie.png" group-title="AISPLAY- พรีเมี่ยม", TV5MONDE
+#EXTINF:-1 ch-number="255" tvg-name="TV5MONDE" tvg-id="TV5MONDE.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/NEWS-ICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TV5MONDEasie.png" group-title="AIS | Variety", TV5MONDE
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0141/DASH/V0141.mpd
 
 =====================================
 =====================================
+
 #EXTINF:1 tvg-id="18xxx" tvg-logo="https://jav.place/images/node/11/118215.webp?1637935716" group-title="18xxx",KBI-030
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.pornbest.org/
