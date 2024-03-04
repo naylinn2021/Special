@@ -671,8 +671,7 @@ https://nlsuper.score806.cc/pt_sporttv3/index.m3u8|Referer=https://24hsport.tv/
 
 ##########################################################################
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBe0_C3j_l2WMDaNzjGBiYgDqt-ZOoRl9icw&usqp=CAU"
-group-title="9-MUSIC",MTV90
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBe0_C3j_l2WMDaNzjGBiYgDqt-ZOoRl9icw&usqp=CAU" group-title="9-Music",MTV90
 http://185.216.140.44/iptv/WTRMLWF6MHW5NG/1038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/1200px-MTV_International_2009.svg.png" group-title="9-Music", MTV
