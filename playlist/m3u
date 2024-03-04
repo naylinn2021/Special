@@ -16,7 +16,7 @@ http://ip168.homeip.net:8086/3.m3u8
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=http://livein1.com
+#EXTVLCOPT:http-referrer=http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78794&extension
 http://185.191.124.203:3330/live/play/VUhNNWVrVXhiRkZuVURNNGNtdFVhbGxOWTFZNE5ETllLMlpSVGpWNGNGaFJPWGRWTnl0a2IyMDJSVDA9/78794
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd HD
