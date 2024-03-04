@@ -17,7 +17,6 @@ http://ip168.homeip.net:8086/3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://livein1.com
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78794&extension=m3u8
 http://185.191.124.203:3330/live/play/VUhNNWVrVXhiRkZuVURNNGNtdFVhbGxOWTFZNE5ETllLMlpSVGpWNGNGaFJPWGRWTnl0a2IyMDJSVDA9/78794
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd HD
@@ -29,17 +28,14 @@ https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=h
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1709481851-0-0-c5422140d2306977d0cba5389c489d7e
-#EXTVLCOPT:http-referrer=https://m.yyzbtv8.com
-https://pull.juqihuo.com/live/stream-746673_lhd.flv?auth_key=1709482093-0-0-8e68a03495f4ce1eccd6011d034f421e
+#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|Origin=https://www.movie87hd.com/|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/nJGSEE7.jpeg" group-title="01 LIVE", Napoli 02:15 am 04-03-2024 Juventus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://m.socolive33.co#EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1709497151-0-0-8e588c82b5a8103819cdb6f825277c8c
-
+##EXTVLCOPT:http-referrer=https://sport.livedoomovies.com
+https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/|Origin=https://www.movie87hd.com/|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/UxwHd86.jpeg" group-title="01 LIVE",Athletic Club 02:30 am 04-03-2024 FCB Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
