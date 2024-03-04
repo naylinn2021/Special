@@ -683,23 +683,24 @@ http://185.216.140.44/iptv/ECBZ73YHHBA898/221/index.m3u8
 #EXTVLCOPT:http-referrer=https://livehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://185.216.140.44/iptv/MXUV9GU7KLRNNN/31574/index.m3u8
-
 #https://webhdrus.onlinehdhls.ru/lb/premium371/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/1200px-MTV_International_2009.svg.png" group-title="9-Music",MTV International
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/1200px-MTV_International_2009.svg.png" group-title="9-Music",MTV International
 http://185.216.140.44/iptv/MNPBNDKVDKX8G9/142/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="9-Music",K Pop2 Channel
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="9-MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",group-title="9-MUSIC"NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="9-MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
+
+#EXTINF:-1   tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",
+group-title="9-MUSIC"Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="9-Music",K Pop Channel
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Z1jHwsf/vChannel.png" group-title="9-Music", [V]Channel
+#EXTINF:-0  tvg-logo="https://i.ibb.co/Z1jHwsf/vChannel.png" group-title="9-Music", [V]Channel
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
 
