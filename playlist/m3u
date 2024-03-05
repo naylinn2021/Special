@@ -1210,8 +1210,8 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/H1hVfSP.jpeg" group-title="TEST", LIVE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru
-https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8|Referer=https://claplivehdplay.ru|Origin=https://claplivehdplay.ru|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+#EXTVLCOPT:http-referrer=https://viwlivehdplay.ru/
+https://websuit.onlinehdhls.ru/est1/cdn/mono94/playlist.m3u8|Referer=https://viwlivehdplay.ru/|Origin=https://viwlivehdplay.ru/|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 
 
@@ -1219,15 +1219,15 @@ https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8|Referer=https://claplive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
+https://websuit.onlinehdhls.ru/est1/cdn/mono94/playlist.m3u8
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/H1hVfSP.jpeg" group-title="TEST", TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru
-https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
+#EXTVLCOPT:http-referrer=https://viwlivehdplay.ru/
+https://websuit.onlinehdhls.ru/est1/cdn/mono94/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1hVfSP.jpeg" group-title="TEST", TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8=Referer=https://claplivehdplay.ru
-#https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8=Referer=https://claplivehdplay.ru
+https://websuit.onlinehdhls.ru/est1/cdn/mono94/playlist.m3u8
+#https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8|Referer=https://claplivehdplay.ru
