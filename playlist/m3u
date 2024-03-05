@@ -5,19 +5,19 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://bananatv.org
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://watch.ezyproxy.com/
-http://ip168.homeip.net:8086/3.m3u8
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F39%2Findex.m3u8&token=93213cf86e225cf32f93572f6158d3278991a0c5&is_vip=false&verify=1709596800-jiVDTOWteM4ggeMWmNv7mevVa%2FWERqTTlFFuW0H67Hw%3D
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jdfKcDg.jpeg" group-title="01 LIVE", Man City 10:00 PM Man Utd HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
@@ -48,7 +48,7 @@ https://streammain.myanmartvchannels.com:999/website-buddha-stream/website-buddh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.pyoneplay.com
-https://pp-live.b-cdn.net/bcdn_token=W1g3rVMFaB06Z6IkRTPA3hvIdxqk9Ia285TnTTASK8c&expires=1709638700&token_path=%2FLiveApp%2F/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
 
 ##########################################################################
 
