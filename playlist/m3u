@@ -47,9 +47,8 @@ https://streammain.myanmartvchannels.com:999/website-buddha-stream/website-buddh
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/nJGSEE7.jpeg" group-title="01 LIVE", Napoli 02:15 am 04-03-2024 Juventus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-##EXTVLCOPT:http-referer=https://terryqx55.superleo77.sbs
-https://fhlsfhd9.1mv.xyz/v3/get/s3/aHR0cHM6Ly9wbGF5LmFvbWVpbGEuY24=/live/sd-4wyrn4hx0d69q86.m3u8
-
+#EXTVLCOPT:http-referrer=https://terryqx55.superleo77.sbs
+https://fhlsfhd9.1mv.xyz/v3/get/s3/aHR0cHM6Ly9wbGF5LmFvbWVpbGEuY24=/live/sd-4wyrn4hx0d69q86.m3u8|Referer=https://terryqx55.superleo77.sbs|Origin=https://terryqx55.superleo77.sbs|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 ##########################################################################
 
