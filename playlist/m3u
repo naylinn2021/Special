@@ -43,6 +43,14 @@ https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8|Referer=h
 #EXTVLCOPT:http-referrer=https://m.socolive33.co#EXTVLCOPT:http-referrer=https://www.myanmartvchannels.com
 https://streammain.myanmartvchannels.com:999/website-buddha-stream/website-buddha-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjQgMTI6MTU6MzggQU0maGFzaF92YWx1ZT1CMG40NFVoZ3cxei9DaGJoUWtYeE9RPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQz
 
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/nJGSEE7.jpeg" group-title="01 LIVE", Napoli 02:15 am 04-03-2024 Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+##EXTVLCOPT:http-referrer=https://mhdtvsports.net/
+https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
+
+
 ##########################################################################
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jYRMla6.jpeg" group-title="02 LIVE", HD1 LIVE
