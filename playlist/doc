@@ -1,21 +1,52 @@
-#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-name="HISTORY" tvg-logo="https://static.mncnow.id/images/channel/b23821b1/38bc.png" group-title="7-ID VISIONPLUS", HISTORY
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerg__lLRxfNcamdtoNS2Y0t5VLjO976Pcag&usqp=CAU" group-title="8-G⚽LD D⚽C", DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://www.laotv.la
+https://ctrl.laotv.la/live/Discovery/index.m3u8
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="8-G⚽LD D⚽C", AnimalPlanet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://www.laotv.la
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_GlbEVRvLJfLTPC2rfWJ--26URT1-Uvpqw&usqp=CAU" group-title="8-G⚽LD D⚽C", AnimalShow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://www.laotv.la
+https://ctrl.laotv.la/live/AnimalShow/index.m3u8
+
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLE87vMO6asNdTYuewxl-64J-E0UP7pzqgd1bivkWjsg&s" group-title="8-G⚽LD D⚽C", LOVE NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist288p.m3u8
+
+#EXTINF:1 tvg-id="G⚽LD D⚽C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjYdCbdsTISAi5dJ0Lu26GntbuEQZ2WdFTw&usqp=CAU" group-title="8-G⚽LD D⚽C", SAMRUJLOK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://www.laotv.la
+https://ctrl.laotv.la/live/Samrujlok/index.m3u8
+
+#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-name="HISTORY" tvg-logo="https://static.mncnow.id/images/channel/b23821b1/38bc.png" group-title="8-G⚽LD D⚽C", HISTORY
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-name="" tvg-logo="https://gdplayertv.top/assets/img/logo/nat-geo.png" group-title="7-ID VISIONPLUS", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-name="" tvg-logo="https://gdplayertv.top/assets/img/logo/nat-geo.png" group-title="8-G⚽LD D⚽C", NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://gdplayertv.top/assets/img/logo/nat-geo-wild.png" group-title="7-ID VISIONPLUS", NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://gdplayertv.top/assets/img/logo/nat-geo-wild.png" group-title="8-G⚽LD D⚽C", NATIONAL GEOGRAPHIC WILD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://static.mncnow.id/images/channel/6feedc54/8409.png" group-title="7-ID VISIONPLUS", OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://static.mncnow.id/images/channel/6feedc54/8409.png" group-title="8-G⚽LD D⚽C", OUTDOOR CHANNEL
 **https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
