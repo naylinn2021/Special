@@ -53,7 +53,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8|Referer=h
 
 ##########################################################################
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/jYRMla6.jpeg" group-title="02 LIVE", Manchester City UEFA Champions League 2-30AM FC Copenhagen
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", Manchester City UEFA Champions League 2-30AM FC Copenhagen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
@@ -64,7 +64,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://sekiu.com
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/LhtMfIq.jpeg" group-title="02 LIVE", HD2 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD2 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
@@ -75,13 +75,13 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTVLCOPT:http-referrer=http://bananatv.org:25461
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/t902iKf.jpeg" group-title="02 LIVE", HD3 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD3 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/6kBitK6.jpeg" group-title="02 LIVE", HD4 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
