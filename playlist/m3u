@@ -3,7 +3,8 @@
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/H1hVfSP.jpeg" group-title="01 LIVE", LIVE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=http://bananatv.org
+#EXTVLCOPT:http-referrer=https://mhdtvsports.net
+https://sportsleading.online/live/stream_f1.m3u
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/H1hVfSP.jpeg" group-title="01 LIVE", LIVE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
