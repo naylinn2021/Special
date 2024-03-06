@@ -1260,4 +1260,4 @@ https://sportsleading.online/live/stream_f1.m3u8|Referer=https://mhdtvsports.net
 #EXTVLCOPT:http-referrer=https://mhdtvsports.net
 https://sportsleading.online/live/stream_f1.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
+https://sportsleading.online/live/stream_f1.m3u8
