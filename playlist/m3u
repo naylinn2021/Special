@@ -83,6 +83,8 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=d6db24658f231469b5d18b540a228868&txTime=65e8f8ba#skip
+#EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=d6db24658f231469b5d18b540a228868&txTime=65e8f8ba#skip
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
