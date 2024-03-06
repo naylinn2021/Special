@@ -1254,12 +1254,12 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
 ##########################################################################
 
 #EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/28.png" group-title="TEST",TEST
-https://salamus2023.onlinehdhls.ru/ddh1/premium60/tracks-v1a1/mono.m3u8|Referer=https://claplivehdplay.ru
+https://sportsleading.online/live/stream_f1.m3u8|Referer=https://mhdtvsports.net
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://image.24hsport.tv/tvs/28.png" group-title="TEST", TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mhdtvsports.net/
+#EXTVLCOPT:http-referrer=https://mhdtvsports.net
 https://sportsleading.online/live/stream_f1.m3u8
 
 
