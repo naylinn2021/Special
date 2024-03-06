@@ -95,7 +95,7 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.myanmartvchannels.com
-https://streammain.myanmartvchannels.com:999/website-buddha-stream/website-buddha-stream/playlist.m3u8
+https://streammain.myanmartvchannels.com:999/website-buddha-stream/website-buddha-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgNTo0OToxNyBBTSZoYXNoX3ZhbHVlPXdsNHliWHlXR2tiQjBFSG1WSHNIZEE9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49NDM=
 
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="1-BUDDHA",မဟာဗောဓိ
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
