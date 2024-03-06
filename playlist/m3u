@@ -64,10 +64,11 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://sekiu.com
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD2 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", Real Madrid 2-30AM RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTVLCOPT:http-referrer=https://chaolua7.live
 
@@ -75,11 +76,11 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTVLCOPT:http-referrer=http://bananatv.org:25461
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD3 LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/83181937ea9b54661056c689c705e493a51f5ed5f69c275b1c459faf243ae5be.jpg" group-title="02 LIVE", Sporting CP 12-15AM Atalanta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
