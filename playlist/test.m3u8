@@ -1,16 +1,17 @@
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://www.skynet.com.mm/_next/image?url=%2Fassets%2Fimages%2Fchannel_logos%2FSports_1.png&w=1080&q=20" group-title="MYANMAR SPORT", SKYNET SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mhdtvsports.net
+#EXTVLCOPT:http-referrer=https://telenor.myanmar
+http://203.80.165.14:80/stream/channelid/1175144244?profile=pass
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/H1hVfSP.jpeg" group-title="MYANMAR SPORT", SKYNET SPORT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mhdtvsports.net
-
+#EXTVLCOPT:http-referrer=https://telenor.myanmar
+http://203.80.165.14:80/stream/channelid/146758025?profile=pass
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/H1hVfSP.jpeg" group-title="MYANMAR SPORT", SKYNET SPORT3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://mhdtvsports.net
-
+#EXTVLCOPT:http-referrer=https://telenor.myanmar
+http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
