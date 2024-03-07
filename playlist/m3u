@@ -53,7 +53,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8|Referer=h
 
 ##########################################################################
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", Manchester City 2-30AM FC Copenhagen
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", Sparta Prague 12:15AM Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
@@ -64,7 +64,7 @@ https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1709758982-0-0-4a1
 #EXTVLCOPT:http-referrer=https://sekiu.com
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", Real Madrid 2-30AM RB Leipzig
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", AS Roma 12:15AM Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
