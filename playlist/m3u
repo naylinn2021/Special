@@ -87,8 +87,8 @@ https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1709836682-0-0-8c8
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", HD4 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://m.socolive33.com
-
+#EXTVLCOPT:http-referrer=https://www.yariga.live
+https://qt2.dwasat.com:443/upload/images/logo1.m3u8
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
