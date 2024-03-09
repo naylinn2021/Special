@@ -53,7 +53,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8|Referer=h
 
 ##########################################################################
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/83181937ea9b54661056c689c705e493a51f5ed5f69c275b1c459faf243ae5be.jpg" group-title="02 LIVE", Sparta Prague 12:15AM Liverpool
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://i.imgur.com/dn68Th8.jpeg" group-title="02 LIVE", Sparta Prague 12:15AM Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
@@ -68,9 +68,7 @@ https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1709836502-0-0-c86
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1709836682-0-0-59c5435fb35340cc793180c83fdadb42
-#EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1709836682-0-0-8c82ed60ae37e5d888c3523a8fb8bb12
+
 
 #EXTVLCOPT:http-referrer=https://sekiu.com
 
@@ -88,7 +86,7 @@ https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1709836682-0-0-8c8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6261.64 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.yariga.live
-https://qt2.dwasat.com:443/upload/images/logo0.m3u8
+
 
 ##########################################################################
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
