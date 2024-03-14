@@ -111,53 +111,68 @@ http://ppradio.b-cdn.net:80/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 ##########################################################################
  
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="2-FREE MM",MRTV HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
-#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MWD HD" tvg-logo="https://www.dropbox.com/scl/fi/wx8zky8p85yn2m6vtrnvg/Untitled-design_20231004_183816_0000.jpg?rlkey=ok21mekckdkwfdbs295rdalp8&dl=1" group-title="2-FREE MM",MWD HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLPffZJAU1xU0dRl3W2MPz0/ts
+https://l1-xl1.myanmarnet.com/relay/mrtvhd/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MC CHANNEL" tvg-logo="https://drive.google.com/uc?export=download&id=1ptCuB1rh_HvmLoA6ifZZVtVXixxKDki0" group-title="2-FREE MM",MC CHANNEL
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
 #EXTINF:-1 xui-id="20" tvg-id="" tvg-name="MRTV News HD" tvg-logo="https://www.dropbox.com/scl/fi/8k64edo3tzqwi12axm2wb/20231004_194011_0000.jpg?rlkey=bb6g295vwqzi966d55492iogq&dl=1" group-title="2-FREE MM",MRTV News HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMuz_hizrZD7BH2pdhovsW0/ts
+https://l1-xl1.myanmarnet.com/relay/mrtvhd/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MRTV-4 HD" tvg-logo="https://www.dropbox.com/scl/fi/gebboxqlfnw01xb3aje8a/HD_20231004_212955_0000.jpg?rlkey=4l12o3fh74sbufm5p4pjvs9fp&dl=1" group-title="2-FREE MM",MRTV-4 HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEOQaldLwHUSfk0rAF1TIWw/ts
+http://ppradio.b-cdn.net:80/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
 #EXTINF:-1 xui-id="6559" tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="2-FREE MM",MRTV-4
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKyUU5inl0F_3LywQqmuMP8/ts
+
+
 #EXTINF:-1 xui-id="4" tvg-id="" tvg-name="Channel7 HD" tvg-logo="https://www.dropbox.com/scl/fi/xoyy158jvhsjh7l254esq/20231218_144203_0000.jpg?rlkey=r30rglbd39cpd2f9sk4ykjid3&dl=1" group-title="2-FREE MM",Channel7 HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIj4FQuE8M4NumvgLORqi70/ts
+http://ppradio.b-cdn.net:80/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+
 #EXTINF:-1 xui-id="6560" tvg-id="" tvg-name="Channel7" tvg-logo="https://www.dropbox.com/scl/fi/ub1d1vnemb6bo4yy1o2et/FB_IMG_1701691210488.jpg?rlkey=yt7jceoh02s2ku60y0hd3u1ld&dl=1" group-title="2-FREE MM",Channel7
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHyKvh_SMG8KVdtg_SfuzWQ/ts
+
 #EXTINF:-1 xui-id="5" tvg-id="" tvg-name="Channel K HD" tvg-logo="https://www.dropbox.com/scl/fi/mblrvp6ans4cwnltdmrvb/dd-g_20231204_182841_0000.jpg?rlkey=xw1orf9ms08pvzusirn0y5cl5&dl=1" group-title="2-FREE MM",Channel K HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOh53p-3GB_U5VSPyN6W7YU/ts
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="Fortune HD" tvg-logo="https://www.dropbox.com/scl/fi/2r7n9xmkij225kpfvu6iu/dd-g_20231120_232059_0000.jpg?rlkey=qdpfxcmngwmns1htsdu73d863&dl=1" group-title="2-FREE MM",Fortune HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
+
 #EXTINF:-1 xui-id="21" tvg-id="" tvg-name="HTV Sports" tvg-logo="https://www.dropbox.com/scl/fi/l3um8bs1eqb7v61dr5rhz/20231216_193401_0000.jpg?rlkey=m3siozl1gpjvwotgl0be2bl27&dl=1" group-title="2-FREE MM",HTV Sports
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLNKllQLxmnJAK04Dc3-n-8/ts
+https://l1-xl1.myanmarnet.com/relay/mrtvsport/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 xui-id="24" tvg-id="" tvg-name="HTV" tvg-logo="https://www.dropbox.com/scl/fi/brhf6x1cdwsyc8e3luv9p/20231216_193206_0000.jpg?rlkey=ygvati5xc0fs87swd0jbjbr2s&dl=1" group-title="2-FREE MM",HTV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKchgJW2_BIpDRGXLWkCD_Y/ts
+https://l1-xl1.myanmarnet.com/relay/mrtvfarmer/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 xui-id="19" tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="2-FREE MM",YTV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
+
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="MNTV" tvg-logo="https://www.dropbox.com/scl/fi/t3600ga5zyfdpaowkkr9j/20231205_175238_0000.jpg?rlkey=g75hqqstzb54s9t65s71p5rm8&dl=1" group-title="2-FREE MM",MNTV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLDScsCKDJf0xr55UFaKdfg/ts
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 xui-id="18" tvg-id="" tvg-name="Channel 9" tvg-logo="https://www.dropbox.com/scl/fi/p60ob2ve97r6o2iwcxub4/dd-g_20231209_184131_0000.jpg?rlkey=1qeafutvqpxpjrdl0p8az0czx&dl=1" group-title="2-FREE MM",Channel 9
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
+
 #EXTINF:-1 xui-id="14" tvg-id="" tvg-name="M Entertainment" tvg-logo="https://www.dropbox.com/scl/fi/l9d6hxj1ndz4lj5nz9qdm/dd-g_20231205_175617_0000.jpg?rlkey=45rm7ut4623nv9f1o9ebzq07f&dl=1" group-title="2-FREE MM",M Entertainment
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPRDyMv4aiUl7pvgUNFAzws/ts
+http://5a13fe32ef748.streamlock.net:80/mmplay/mrtv-entertainment/chunklist_w576687589.m3u8
+
 #EXTINF:-1 xui-id="13" tvg-id="" tvg-name="5 Plus" tvg-logo="https://www.dropbox.com/scl/fi/7z4h7mas50f3ynangfznc/dd-g_20231205_175939_0000.jpg?rlkey=i0x563qw8c0l26ziblem7q9fv&dl=1" group-title="2-FREE MM",5 Plus
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
+http://5a13fe32ef748.streamlock.net:80/mmplay/5plus/chunklist_w1454452558.m3u8
+
 #EXTINF:-1 xui-id="3" tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="2-FREE MM",Mahar HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
 
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-/ts
 #EXTINF:-1 xui-id="7078" tvg-id="" tvg-name="MM EDU" tvg-logo="https://www.dropbox.com/scl/fi/gyfez4lq8awp186g8bh2l/dd-g_20231216_193557_0000.jpg?rlkey=rauuwqk6w1i8guoonwo4x1ipy&dl=1" group-title="2-FREE MM",MM EDU
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFq25hOqi_ozcvT_tTD5ln4/ts
+
+
 #EXTINF:-1 xui-id="22" tvg-id="" tvg-name="MRTV NRC" tvg-logo="https://www.dropbox.com/scl/fi/5oylupa1o94mj8pxxg05t/ENTERTAINMENT_20231004_194708_0000.jpg?rlkey=ao6utcewescmlvrmzkqwmvrmn&dl=1" group-title="2-FREE MM",MRTV NRC
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHfYQgx43k41QXbo0Fsjw8/ts
+https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 xui-id="8" tvg-id="" tvg-name="TVM" tvg-logo="https://www.dropbox.com/scl/fi/pk1bu7nkj7fu796x7quu0/dd-g_20231209_183043_0000.jpg?rlkey=nr4ssnxdnkwgkyhlotruuoqdy&dl=1" group-title="2-FREE MM",TVM
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNJADPmINfD0bAEqDArl7wA/ts
+
+
 #EXTINF:-1 xui-id="9" tvg-id="" tvg-name="Light" tvg-logo="https://www.dropbox.com/scl/fi/27iop4hjmoqdj1urlih6l/dd-g_20231212_184458_0000.jpg?rlkey=w74eg554opj63an8wlwiumzuy&dl=1" group-title="2-FREE MM",Light
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCSbkpGolOk8nB0cLMxaycs/ts
+
+
 #EXTINF:-1 xui-id="25" tvg-id="" tvg-name="MITV" tvg-logo="https://www.dropbox.com/scl/fi/svt0a2kr6jbyq9fzftsym/dd-g_20231209_183301_0000.jpg?rlkey=lfx952lpzei04cveo1lplv5sp&dl=1" group-title="2-FREE MM",MITV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBAAw-bJuE1qtXoMVtd9lKg/ts
-#EXTINF:-1 xui-id="6520" tvg-id="" tvg-name="MVTV Myanmar" tvg-logo="https://www.dropbox.com/scl/fi/bwuqitmaoi95h8190v6w6/dd-g_20231113_205457_0000.jpg?rlkey=zxqj6k4uss8v7rf1byvylcxi9&dl=1" group-title="2-FREE MM",MVTV Myanmar
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPh9wEKHIEXJ3lbR6RTeAYg/ts
+http://5a13fe32ef748.streamlock.net:80/mmplay/mitv/chunklist_w1179393583.m3u8
+
 ##########################################################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="3.KID",1.Mentari 
