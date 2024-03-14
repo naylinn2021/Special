@@ -134,6 +134,7 @@ http://ppradio.b-cdn.net:80/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="Fortune HD" tvg-logo="https://www.dropbox.com/scl/fi/2r7n9xmkij225kpfvu6iu/dd-g_20231120_232059_0000.jpg?rlkey=qdpfxcmngwmns1htsdu73d863&dl=1" group-title="2-FREE MM",Fortune HD
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
 #EXTINF:-1 xui-id="21" tvg-id="" tvg-name="HTV Sports" tvg-logo="https://www.dropbox.com/scl/fi/l3um8bs1eqb7v61dr5rhz/20231216_193401_0000.jpg?rlkey=m3siozl1gpjvwotgl0be2bl27&dl=1" group-title="2-FREE MM",HTV Sports
 https://l1-xl1.myanmarnet.com/relay/mrtvsport/ch1/stream_hi/index.m3u8
@@ -142,6 +143,7 @@ https://l1-xl1.myanmarnet.com/relay/mrtvsport/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mrtvfarmer/ch1/stream_hi/index.m3u8
 
 #EXTINF:-1 xui-id="19" tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="2-FREE MM",YTV
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w347202258.m3u8
 
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="MNTV" tvg-logo="https://www.dropbox.com/scl/fi/t3600ga5zyfdpaowkkr9j/20231205_175238_0000.jpg?rlkey=g75hqqstzb54s9t65s71p5rm8&dl=1" group-title="2-FREE MM",MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
@@ -155,7 +157,7 @@ http://5a13fe32ef748.streamlock.net:80/mmplay/mrtv-entertainment/chunklist_w5766
 http://5a13fe32ef748.streamlock.net:80/mmplay/5plus/chunklist_w1454452558.m3u8
 
 #EXTINF:-1 xui-id="3" tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="2-FREE MM",Mahar HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
+https://tv.mahar.live/mahar/website.stream/mahar/website1/index.m3u8
 
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-/ts
 #EXTINF:-1 xui-id="7078" tvg-id="" tvg-name="MM EDU" tvg-logo="https://www.dropbox.com/scl/fi/gyfez4lq8awp186g8bh2l/dd-g_20231216_193557_0000.jpg?rlkey=rauuwqk6w1i8guoonwo4x1ipy&dl=1" group-title="2-FREE MM",MM EDU
