@@ -673,7 +673,8 @@ http://5a13fe32ef748.streamlock.net:80/mmplay/mrtv-entertainment/chunklist_w5766
 http://5a13fe32ef748.streamlock.net:80/mmplay/5plus/chunklist_w1454452558.m3u8
 
 #EXTINF:-1 xui-id="3" tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="2-FREE MM",Mahar HD
-https://tv.mahar.live/mahar/website.stream/mahar/website1/index.m3u8
+http://143.244.132.23:8080/hls/mahar/0_1/index.m3u8?sessId=3719196
+##https://tv.mahar.live/mahar/website.stream/mahar/website1/index.m3u8|Referer=https://wwww.atomstore.com
 
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-/ts
 #EXTINF:-1 xui-id="7078" tvg-id="" tvg-name="MM EDU" tvg-logo="https://www.dropbox.com/scl/fi/gyfez4lq8awp186g8bh2l/dd-g_20231216_193557_0000.jpg?rlkey=rauuwqk6w1i8guoonwo4x1ipy&dl=1" group-title="2-FREE MM",MM EDU
