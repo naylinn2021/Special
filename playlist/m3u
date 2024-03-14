@@ -142,40 +142,10 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPRDyMv4aiUl7pvgUNFAzws/ts
 #EXTINF:-1 xui-id="13" tvg-id="" tvg-name="5 Plus" tvg-logo="https://www.dropbox.com/scl/fi/7z4h7mas50f3ynangfznc/dd-g_20231205_175939_0000.jpg?rlkey=i0x563qw8c0l26ziblem7q9fv&dl=1" group-title="2-FREE MM",5 Plus
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="3-MM MOVIE",Mahar HD
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="2-FREE MM",Mahar HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
-#EXTINF:-1 xui-id="6547" tvg-id="" tvg-name="MM Movies 1" tvg-logo="https://www.dropbox.com/scl/fi/tdt2rbd076s1ypsuibw8s/20231123_175636_0000.jpg?rlkey=ybpk6gh6jl8qqu8kzs3r8a612&dl=1" group-title="3-MM MOVIE",MM Movies 1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdADnS9t1VZTHyg9SFGMBHaA/ts
-#EXTINF:-1 xui-id="6548" tvg-id="" tvg-name="MM Movies 2" tvg-logo="https://www.dropbox.com/scl/fi/579ap0tweln7y9czwh5d7/20231123_175753_0000.jpg?rlkey=wk2e3uowock05685tw0ev971n&dl=1" group-title="3-MM MOVIE",MM Movies 2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
-#EXTINF:-1 xui-id="6549" tvg-id="" tvg-name="MM Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/1sjn4a78z8f5j1owpbhn1/20231209_163817_0000.png?rlkey=q54c3vaofqzjpf6ttw5185zxy&dl=1" group-title="3-MM MOVIE",MM Movies 3
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkzXKxtTsz_zIzblIf_kP0/ts
-#EXTINF:-1 xui-id="6550" tvg-id="" tvg-name="MM Movies 4" tvg-logo="https://www.dropbox.com/scl/fi/zn8pqmcuwrv8n18dpu5j5/20231209_174517_0000.jpg?rlkey=1x6vnx1chs9xm1fye7mcio0z1&dl=1" group-title="3-MM MOVIE",MM Movies 4
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCH3RGoJkklNBTnHIFgSXKw/ts
-#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="Movies 1" tvg-logo="https://www.dropbox.com/scl/fi/r7exz8gumy4rza6g06wgp/Untitled-design_20231030_215448_0000.jpg?rlkey=fpesovoui5z793pxj6ed0xj9o&dl=1" group-title="3-MM MOVIE",Movies 1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
-#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="Movies 2" tvg-logo="https://www.dropbox.com/scl/fi/h0r5uenkcnecmd8cb4fl4/Untitled-design_20231030_215727_0000.jpg?rlkey=v7njzdew0h8uf7y6im22nw9r2&dl=1" group-title="3-MM MOVIE",Movies 2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
-#EXTINF:-1 xui-id="1236" tvg-id="" tvg-name="Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/a2bbww3pwqbfnda88elyl/Untitled-design_20231030_220129_0000.jpg?rlkey=3x2yhojyyvv0kbh40tuxp9u5k&dl=1" group-title="3-MM MOVIE",Movies 3
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHneg4oFwOctzvsOVGYER8/ts
-#EXTINF:-1 xui-id="1277" tvg-id="" tvg-name="Movies 4" tvg-logo="https://www.dropbox.com/scl/fi/n3e4zgleearpgqzszo1yo/Untitled-design_20231030_220402_0000.jpg?rlkey=vreji05r7qv2o7k78jyzoao8i&dl=1" group-title="3-MM MOVIE",Movies 4
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
-#EXTINF:-1 xui-id="1278" tvg-id="" tvg-name="Movies 5" tvg-logo="https://www.dropbox.com/scl/fi/ban1bijkxu8nn2ltnudu7/Untitled-design_20231030_222202_0000.jpg?rlkey=iopinte0j0046jcw34ugtpwjd&dl=1" group-title="3-MM MOVIE",Movies 5
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
-#EXTINF:-1 xui-id="7073" tvg-id="" tvg-name="Movies 6" tvg-logo="https://www.dropbox.com/scl/fi/bberkamn10s62qq6pqwzd/Untitled-design_20231214_191846_0000.jpg?rlkey=mkpye86kd2wru4zp1ieachoh8&dl=1" group-title="3-MM MOVIE",Movies 6
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
-#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="Movies 7" tvg-logo="https://www.dropbox.com/scl/fi/p0eugnuehqi4hxjfe3y1w/Untitled-design_20231224_155129_0000.jpg?rlkey=pbv26pc9zen612mfa9ptn3upl&dl=1" group-title="3-MM MOVIE",Movies 7
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
-#EXTINF:-1 xui-id="1279" tvg-id="" tvg-name="Series 1" tvg-logo="https://www.dropbox.com/scl/fi/inxz3lkyyt3ccz4419kd4/20231030_231950_0000.jpg?rlkey=7q6ca1ne4jbli8ih71akutbzb&dl=1" group-title="3-MM MOVIE",Series 1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
-#EXTINF:-1 xui-id="1280" tvg-id="" tvg-name="Series 2" tvg-logo="https://www.dropbox.com/scl/fi/n2zfo0dncp41nnhgs6jmq/20231030_232158_0000.jpg?rlkey=i1brkpkxn0cpf71ya9ocre1nh&dl=1" group-title="3-MM MOVIE",Series 2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
-#EXTINF:-1 xui-id="1281" tvg-id="" tvg-name="Cartoon 1" tvg-logo="https://www.dropbox.com/scl/fi/d9vxa9thtbu5k4v7ckxzy/20231030_233655_0000.jpg?rlkey=virdouw0h0j1r48wawc2n8e15&dl=1" group-title="3-MM MOVIE",Cartoon 1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
-#EXTINF:-1 xui-id="1282" tvg-id="" tvg-name="Cartoon 2" tvg-logo="https://www.dropbox.com/scl/fi/7iy1dvngqut6yi48b5t7y/20231030_233844_0000.jpg?rlkey=ethbadk0dm6syedv8hcj29f0r&dl=1" group-title="3-MM MOVIE",Cartoon 2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
-#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="MWD Education" tvg-logo="https://www.dropbox.com/scl/fi/iuol3fsn9m0irewb5dgma/ENTERTAINMENT_20231004_204919_0000.jpg?rlkey=rfrrlq9b3kt1m9i2jqbyidd3m&dl=1" group-title="2-FREE MM",MWD Education
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOQsvtGZoYKv9OsQIpbfgZc/ts
+
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-/ts
 #EXTINF:-1 xui-id="7078" tvg-id="" tvg-name="MM EDU" tvg-logo="https://www.dropbox.com/scl/fi/gyfez4lq8awp186g8bh2l/dd-g_20231216_193557_0000.jpg?rlkey=rauuwqk6w1i8guoonwo4x1ipy&dl=1" group-title="2-FREE MM",MM EDU
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFq25hOqi_ozcvT_tTD5ln4/ts
 #EXTINF:-1 xui-id="22" tvg-id="" tvg-name="MRTV NRC" tvg-logo="https://www.dropbox.com/scl/fi/5oylupa1o94mj8pxxg05t/ENTERTAINMENT_20231004_194708_0000.jpg?rlkey=ao6utcewescmlvrmzkqwmvrmn&dl=1" group-title="2-FREE MM",MRTV NRC
@@ -188,6 +158,98 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCSbkpGolOk8nB0cLMxaycs/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBAAw-bJuE1qtXoMVtd9lKg/ts
 #EXTINF:-1 xui-id="6520" tvg-id="" tvg-name="MVTV Myanmar" tvg-logo="https://www.dropbox.com/scl/fi/bwuqitmaoi95h8190v6w6/dd-g_20231113_205457_0000.jpg?rlkey=zxqj6k4uss8v7rf1byvylcxi9&dl=1" group-title="2-FREE MM",MVTV Myanmar
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPh9wEKHIEXJ3lbR6RTeAYg/ts
+##########################################################################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="3.KID",1.Mentari 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mentaritv.m3u8 
+##http://xtv.ooo:8080/3212571066/abc123/350989 
+
+#EXTINF:-1 group-title="3.KID" tvg-id="pbskids.us" tvg-logo="https://i.ibb.co/8YD993Y/pbskid.png",2.Pbs Kids 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8 
+
+#EXTINF:-1 group-title="3.KID" tvg-id="ebskids.kr" tvg-logo="https://i.ibb.co/PDrxLNG/ebskid.png",3.Ebs Kids 
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+
+#EXTINF:-1 tvg-name="MY KIDZ" tvg-logo="https://i.ibb.co/t8r0rmf/kidz.png" group-title="3.KID",4.My Kidz 
+https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd 
+##http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmNHDbs/cbeebies.png" group-title="3.KID",5.Cbeebies https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|referer=https://www.visionplus.id 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJw8wwX/animax.png" group-title="3.KID",6.Animax 
+http://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd|referer=https://www.visionplus.id 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nt1b8BL/chinamakid.png" group-title="3.KID",7.Cinemachi Kids 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd|referer=https://www.visionplus.id 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qGgDLR/c-n.png" group-title="3.KID",8.Carton Network 
+http://xtv.ooo:8080/3212571066/abc123/351031 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+
+#EXTINF:-1 tvg-name="KIDS TV" tvg-logo="https://i.ibb.co/CWV3RKv/kidstv.png" group-title="3.KID",9.Kids Tv 
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://visionplus.id 
+
+#EXTINF:-1 group-title="3.KID" tvg-logo="https://i.ibb.co/dWX6HHc/bebytv.png",10.Baby Tv 
+https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://i.ibb.co/vqwDZ32/nickjr.png" group-title="3.KID",11.Nick Jr 
+https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://visionplus.id 
+
+
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/DtH6FV0/nickelodion.png" group-title="3.KID",12.Nickelodion 
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+
+#EXTINF:-1 tvg-name="DREAMWORS" tvg-logo="https://i.ibb.co/0sCqkgy/dream.png" group-title="3.KID",13.DreamWork 
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScN6FGD/dk.png" group-title="3.KID",14.Discovery Kid 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8 
+
+
+#EXTINF:-1 tvg-name="Horee" tvg-logo="https://i.ibb.co/pQqgCsk/horee.png" group-title="3.KID",15.Horee 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#EXTINF:-1 tvg-name="ZOO MOO" tvg-logo="https://i.ibb.co/2YGnct3/zoomoo.png" group-title="3.KID",15.Zoo Moo 
+https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34P5vcQ/spacetoon.png" group-title="3.KID",16.Spacetoon 
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GHsmjKn/moonbug.png" group-title="3.KID",17.Moonbug Kids 
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+
+
 ##########################################################################
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="4-SPORT", HD1 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
