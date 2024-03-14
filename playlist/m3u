@@ -1972,7 +1972,15 @@ https://s5.bfzycdn.com/video/zibuyuyexinglang/HD/index.m3u8
 ##########################################################################
 
 #EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/28.png" group-title="TEST G⚽LD SP⚽RT",Sky Sports F1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdP4IAvPDcidVxvSPw3mHVl4/ts|Referer=http://bananatv.org
+#EXTVLCOPT:http-referrer=https://streambtw.com
+https://sportsleading.online/live/stream_f1.m3u8
+
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://image.24hsport.tv/tvs/28.png" group-title="TEST G⚽LD SP⚽RT", Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://streambtw.com
+https://sportsleading.online/live/stream_f1.m3u8
 
 #EXTINF:-1 tvg-logo="http://xemtruyenhinh.xyz/image/fox3.jpg" group-title="TEST G⚽LD SP⚽RT",FOX SPORT3 HD1
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8|Referer=http://168.227.22.18:1935
