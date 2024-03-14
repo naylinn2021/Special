@@ -632,6 +632,11 @@ https://l1-xl1.myanmarnet.com/relay/mrtvhd/ch1/stream_hi/index.m3u8
 #EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MC CHANNEL" tvg-logo="https://drive.google.com/uc?export=download&id=1ptCuB1rh_HvmLoA6ifZZVtVXixxKDki0" group-title="2-FREE MM",MC CHANNEL
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
+
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MC MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJrNx10FFTDiAFkVZyyXdKBX4g97Ca2I9qXITUsWJKUg&s" group-title="2-FREE MM",MC MUSIC CHANNEL
+http://l1-xl1.myanmarnet.com:80/relay/music/ch1/stream_hi/index.m3u8
+
+
 #EXTINF:-1 xui-id="20" tvg-id="" tvg-name="MRTV News HD" tvg-logo="https://www.dropbox.com/scl/fi/8k64edo3tzqwi12axm2wb/20231004_194011_0000.jpg?rlkey=bb6g295vwqzi966d55492iogq&dl=1" group-title="2-FREE MM",MRTV News HD
 https://l1-xl1.myanmarnet.com/relay/mrtvhd/ch1/stream_hi/index.m3u8
 
