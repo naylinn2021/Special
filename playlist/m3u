@@ -929,7 +929,128 @@ http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=1922
 
 ##########################################################################
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",ThorGodofThunder2022
+http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="11-MMSUBMOVIES",DoctorStrange
+http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjYjQ3NjgtZWM0NS00MTY5LTlkZWMtODZlNzhkNTU3MzZiXkEyXkFqcGdeQXVyMjM2OTI3Mzk@._V1_.jpg" group-title="11-MMSUBMOVIES",Interceptor
+http://www.zegomovie.com/Videos/Interceptor/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="11-MMSUBMOVIES",Major2022
+http://www.zegomovie.com/Videos/Major/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Jurassic World2022
+http://www.zegomovie.com/Videos/JurassicWorldDominion/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ2ODk1YmUtZWI0NC00YWU0LWE5ODctY2U4NTFhMWI0ZGI3XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="11-MMSUBMOVIES",BlowBlack2022
+http://www.zegomovie.com/Videos/Blowback/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiNGNiM2ItYTM4ZS00ZDBhLWE5NGEtMzNkOGUyN2U4NTFjXkEyXkFqcGdeQXVyMjUxMDgwNA@@._V1_.jpg" group-title="11-MMSUBMOVIES",IronCross TheRoadNormandy2022
+http://www.zegomovie.com/Videos/IronCrossTheRoadtoNormandy/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFjMjBkMzQtMDJmZi00NjJiLWI1ZTEtMjJkYTE1ZTZhMTliXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="11-MMSUBMOVIES",Beast2022
+http://www.zegomovie.com/Videos/Beast2022/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1NTRhZDgtZGQyMi00OTQ1LWFhMmMtMmJhMTZhMjZhNDQ0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="11-MMSUBMOVIES",KGFChapter2
+http://www.zegomovie.com/Videos/KGFChapter2/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjNjUzOGMtZjE1OC00MjQ1LThjNzgtYjNlNWEzYThlMjgzXkEyXkFqcGdeQXVyMTAyNTQ0MzI1._V1_.jpg" group-title="11-MMSUBMOVIES",9Bullets
+http://www.zegomovie.com/Videos/9Bullets/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWEwMWQ2NmItZTdlNi00ZDQ1LWE0OWItODA0ODhjYzZlY2JjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="11-MMSUBMOVIES",Ghani2022
+http://www.zegomovie.com/Videos/Ghani/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",TheVault2021
+http://www.zegomovie.com/Videos/TheVault/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="11-MMSUBMOVIES",TheLostCity
+http://www.zegomovie.com/Videos/TheLostCity/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Uncharted
+http://www.zegomovie.com/Videos/Uncharted/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzMjY3NDItNzAxMS00YTc5LWE3N2EtMDBmNDAwMDQ2NzE4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",OhMyDog
+http://www.zegomovie.com/Videos/OhMyDog/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/249129511/s718/etharkkum-thunindhavan.%7Bformat%7D" group-title="11-MMSUBMOVIES",EtharkkumThunindhavan
+http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwZjhmMWUtMGNiYS00YzM1LTg0NzYtNjI2YTI1MzVjNWU3XkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",SuperMachi
+http://www.zegomovie.com/Videos/SuperMachi/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVlNzkzNWYtNmIxZi00NjI1LWI1NDktNzQ2ZjFiNjc2ZjY0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="11-MMSUBMOVIES",Morbius
+http://www.zegomovie.com/Videos/Morbius/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg" group-title="11-MMSUBMOVIES",RRR
+http://www.zegomovie.com/Videos/RRR/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0NGQzYjEtNTlhNy00ZTllLTgzZTgtZDM0NWU5NzFmY2EwXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="11-MMSUBMOVIES",Restless
+http://www.zegomovie.com/Videos/Restless/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/2KodE_4f.jpg" group-title="11-MMSUBMOVIES",AnotherMe
+http://www.zegomovie.com/Videos/AnotherMe/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg" group-title="11-MMSUBMOVIES",AManCalledHero
+http://www.zegomovie.com/Videos/AManCalledHero/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM5OWQyZWQtNWQ1OS00MWNkLWFiNGYtZGFlZDY0OTNhMDg4XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg" group-title="11-MMSUBMOVIES",GasolineAlley
+http://www.zegomovie.com/Videos/GasolineAlley/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYTkxNDUtMWM3NC00MWEzLTg1NWEtY2E4YmEwM2E5OThlXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg" group-title="11-MMSUBMOVIES",ProjectGemini
+http://www.zegomovie.com/Videos/ProjectGemini/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnoZrN3h-UDacY0wTC-ZNr9JfPto-fHFbJryEZKKQa5pUNEc&s" group-title="11-MMSUBMOVIES",Vesper2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Vesper(2022)(720p)/7PgKDNk5czbZT6ACIM0a.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc3MzZmNTEtNzdlMy00NTkyLWIzYmMtNzA1YmY4MTMxOTg3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_.jpg" group-title="11-MMSUBMOVIES",Hunt2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Hunt2022(480p)/EflpBnk8RXdbrG0wCZ9e.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",BulletTrain2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/BulletTrain(2022)(480p)/HYO3P9nk1hbvxg7MwipZ.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY1YTA2NzUtMGQ3OS00YTE2LWJhNDgtYjFhOGQ1YWM0NDUwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg" group-title="11-MMSUBMOVIES",Poikkalkuthirai
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/PoikkalKuthirai(2022)(480p)/AvDcFpybNZUl18oMxTnO.m3u8
+#EXTINF:-1 tvg-logo="http://www.zegomovie.com/Uploads/vod/2022-01-08/61d9542643162.jpg" group-title="11-MMSUBMOVIES",PonManickavel 
+http://www.zegomovie.com/Videos/PonManickavel/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQxYzNjMGItNzVlMS00NjBhLWI4NTItMmVkZTI0NGE3ZDI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="11-MMSUBMOVIES",ArmyofThieves2021
+http://www.zegomovie.com/Videos/ArmyofThieves/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1goZFxx5tl3AF_q42cO-vJrNd8xSqgNI9ug&usqp=CAU" group-title="11-MMSUBMOVIES",QueensReturn2021
+http://www.zegomovie.com/Videos/QueensReturn/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.zegomovie.com/Uploads/vod/2022-01-07/61d7b7b0cff42.jpg" group-title="11-MMSUBMOVIES",Rudra Thandavam2021
+http://www.zegomovie.com/Videos/RudraThandavam/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyZTExNzYtMzZkNy00ZWYxLTk4NTUtMjNkZjY5MzMzNGU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="11-MMSUBMOVIES",TheEast2021
+http://www.zegomovie.com/Videos/TheEast/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg" group-title="11-MMSUBMOVIES",SpiderManNoWayHome2021
+http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2UIw8f72UY1vOuYBsU-QvKD6CYQC93wYtg&usqp=CAU" group-title="11-MMSUBMOVIES",HomeSweetHome2021
+http://www.zegomovie.com/Videos/HomeSweetHome/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",NightRaiders2021
+http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXh9znC5ilK9nTkELO7GZGUpIkHwAy8BEkHw&usqp=CAU" group-title="11-MMSUBMOVIES",RedNotice2021
+http://www.zegomovie.com/Videos/RedNotice/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMhDRZBUo9-N8x0-P2be1O1g6CqCTOhfOvg&usqp=CAU" group-title="11-MMSUBMOVIES",No Time to Die 2021
+http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Venom2 
+http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QRNwOyJHEzctOjrtXptEHObJPDzjvi6jjg&usqp=CAU" group-title="11-MMSUBMOVIES",RgingFire2021
+http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhZWEyMzEtNmI1ZC00MDEzLThjZjItM2ViZjBkNjU0ZWQyXkEyXkFqcGdeQXVyMTMwMjc2MjI1._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Flight2021
+http://www.zegomovie.com:80/Videos/Flight/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4ZmEwOWMtNmZkZi00NjU3LTg1NmQtODQ1NDA1YTI2MDAyXkEyXkFqcGdeQXVyMjQxNzY5NTc@._V1_.jpg" group-title="11-MMSUBMOVIES",ShowMetheGhost
+http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4MTFiNzctY2RmOC00YzBkLTgzNTYtZGE4NDdjOWVjNGY5XkEyXkFqcGdeQXVyNzI0MTY5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",TheStronghold2021
+http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="11-MMSUBMOVIES",FREE GUY 2021
+http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwYTQxZWEtYzAwNy00NmM4LWE4MDUtYTU5ZTVmYjY4ZTAwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="11-MMSUBMOVIES",BellBottom2021
+http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/EWd7m_4c.jpg?v=1" group-title="11-MMSUBMOVIES",BreakThrough2021
+http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",The Medium2021
+http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlYjY4MjYtODlkNS00OWUxLWI3YzgtZTIzZGU0ZGE5ODMzXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg" group-title="11-MMSUBMOVIES",Kaadan2021
+http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjNDRmNTktYWY1Ny00ODE4LTk5MjEtNGQ4OWFmZDZlZTVlXkEyXkFqcGdeQXVyMTEwODEzNTU@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",SINK HOLE 2021
+http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="11-MMSUBMOVIES",TheCardCounter2021
+http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E4MmNmMzgtOTI2YS00MzhjLTlmOWItZTkxNWRkYTY2NDcwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",NIGHT BOOK2021
+http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="11-MMSUBMOVIES",PawPatrol2021
+http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MTQ3ZjQtZmRjMS00ZDJmLTlkYWQtOWVhODllYjJiNGUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",The Protege2021
+http://www.zegomovie.com/Videos/TheProtege/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNGYyOTYtZDVjOS00MTIyLThiMWItOTViYTcxYmNjMWY4XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",The Rebal of PT218
+http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJmMzYyN2ItMzU0NS00MmYyLWI0ZDQtMjFmMWJkYWQ2YjYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Sherni 2021
+http://www.zegomovie.com/Videos/Sherni/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo5ROKwqLj_koDNtcbOveEDQp7Ck2h92pCg&usqp=CAU" group-title="11-MMSUBMOVIES",BhootPoolice2021
+http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hlO0OixxRfRas8a-Dk6p3QLejXbfHZE4jg&usqp=CAU" group-title="11-MMSUBMOVIES",TuckJagadish2021
+http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSme9OsGV6PwkTNqLepLNNQY01_gnFbPL7L2g&usqp=CAU" group-title="11-MMSUBMOVIES",Kate2022
+http://www.zegomovie.com/Videos/Kate/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_.jpg" group-title="11-MMSUBMOVIES",Pele2021
+http://www.zegomovie.com/Videos/Pele/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ0NDQxYWItNDViYS00YmNmLWIxZjQtZmNlYmFhNmJiMWZlXkEyXkFqcGdeQXVyMTE4MDA1MTgx._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Here &There2021
+http://www.zegomovie.com/Videos/HereandThere/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Ready or Knot2021
+http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 
 ##########################################################################
 
