@@ -1295,19 +1295,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd|referer=https://www.visionplus
 
 
-
-
-
-
 ##########################################################################
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerg__lLRxfNcamdtoNS2Y0t5VLjO976Pcag&usqp=CAU" group-title="8-G⚽LD D⚽C", DISCOVERY
+#EXTINF:1 tvg-id="DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerg__lLRxfNcamdtoNS2Y0t5VLjO976Pcag&usqp=CAU" group-title="8-G⚽LD D⚽C", DISCOVERY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.laotv.la
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="8-G⚽LD D⚽C", AnimalPlanet
+#EXTINF:1 tvg-id="ANIMALPLANET" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="8-G⚽LD D⚽C", AnimalPlanet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.laotv.la
@@ -1573,6 +1569,36 @@ http://www.zegomovie.com/Videos/Pele/index.m3u8
 http://www.zegomovie.com/Videos/HereandThere/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="11-MMSUBMOVIES",Ready or Knot2021
 http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
+##########################################################################
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://image.24hsport.tv/tvs/28.png" group-title="12-F1 G⚽LD SP⚽RT", Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://streambtw.com
+https://sportsleading.online/live/stream_f1.m3u8
+
+#EXTINF:-1 tvg-logo="http://xemtruyenhinh.xyz/image/fox3.jpg" group-title="12-F1 G⚽LD SP⚽RT",FOX SPORT3 HD1
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8|Referer=http://168.227.22.18:1935
+
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="http://xemtruyenhinh.xyz/image/fox3.jpg" group-title="12-F1 G⚽LD SP⚽RT", FOX SPORT3 HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=http://livex.pop-app.live
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+
+#EXTINF:-1 group-title="12-F1 G⚽LD SP⚽RT" tvg-logo="https://image.discovery.indazn.com/jp/v2/jp/image?id=14ln25pmjdv031ejxsmg8dczsu_image-header_pEs_1691515495000",DAZN F1® ES
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1280px-TSN2.svg.png" group-title="12-F1 G⚽LD SP⚽RT",TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
 
 ##########################################################################
 
@@ -1976,16 +2002,16 @@ https://s5.bfzycdn.com/video/zibuyuyexinglang/HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://streambtw.com
-https://sportsleading.online/live/stream_f1.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://xemtruyenhinh.xyz/image/fox3.jpg" group-title="TEST G⚽LD SP⚽RT",FOX SPORT3 HD1
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8|Referer=http://168.227.22.18:1935
+
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="http://xemtruyenhinh.xyz/image/fox3.jpg" group-title="F1 G⚽LD SP⚽RT", FOX SPORT3 HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://livex.pop-app.live
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+
 
 #EXTINF:-1 group-title="F1 G⚽LD SP⚽RT" tvg-logo="https://image.discovery.indazn.com/jp/v2/jp/image?id=14ln25pmjdv031ejxsmg8dczsu_image-header_pEs_1691515495000",DAZN F1® ES
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
@@ -1993,13 +2019,13 @@ http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1280px-TSN2.svg.png" group-title="F1 G⚽LD SP⚽RT",TSN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+
 
 
 ##########################################################################
