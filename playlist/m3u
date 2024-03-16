@@ -569,11 +569,11 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8|Referer=h
 
 ##########################################################################
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="02 LIVE", LIVE
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLXGK17G7ByX6ihMKWxdFEx7nVy8-7Hyx7HMfbhMYoP5bvAZ7Vua2UI2k&s" group-title="02 LIVE", LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
-https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1710613384-0-0-413a09ac39b7ebe443f2bbb58b5065e6
+https://pull.niur.live/live/stream-9912090_lhd.m3u8?txSecret=ba4ebcc6364c33557dd0f092058079f0&txTime=65f62a50
 #EXTVLCOPT:http-referrer=https://m.socolive33.com
 https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1709836502-0-0-c86b82e67293240af37df36dfac25d7f
 #EXTVLCOPT:http-referrer=https://sekiu.com
