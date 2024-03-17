@@ -2107,5 +2107,5 @@ http://203.80.165.14:80/stream/channelid/1724180353?profile=pass
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="" group-title="MYANMAR SPORT", TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
-#EXTVLCOPT:http-referrer=https://www.yariga.live
-https://qt2.dwasat.com:443/upload/images/logo1.m3u8
+#EXTVLCOPT:http-referrer=https://tv.cctv.com/
+https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-1600
