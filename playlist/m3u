@@ -1646,7 +1646,7 @@ http://xtv.ooo:8080/3212571066/abc123/350981
 
 
 
-#EXTINF:1 tvg-id="CCTV1" tvg-logo="" group-title="13-KOREA-CHINA", CCTV1
+#EXTINF:1 tvg-id="CCTV1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8Cti5tt7dIiW1jKeM5TAq_vdlbaVdeV_hOpoqIV45g&s" group-title="13-KOREA-CHINA", CCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
 #EXTVLCOPT:http-referrer=http://m.66zhibow.com/
