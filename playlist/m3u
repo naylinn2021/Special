@@ -2140,8 +2140,8 @@ https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="" group-title="MYANMAR SPORT", TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306 DVBPlayer 5.3
-#EXTVLCOPT:http-referrer=stream.freedvb.com:80
-http://stream.freedvb.com:80/hls/7ed79808.m3u8
+13.4.0.1306
+#EXTVLCOPT:http-referrer=https://pladrac.net/embedplus?id=MTI4NDgz&token=-wcWGLmnFiwRR976sKl4QA&expires=1710773225
+https://hls064.vipdracdn.net/streamhls2024/e12974600c9ce3ac2c5a379d4f3e6ca2/ep.1.v0.1680784848.m3u8
 
 
