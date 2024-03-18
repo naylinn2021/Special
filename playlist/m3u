@@ -1644,6 +1644,15 @@ http://xtv.ooo:8080/3212571066/abc123/350980
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="13-KOREA-CHINA" tvg-logo="https://i.ibb.co/TWrDRn5/kbsworld.png",7.Kbs World 
 http://xtv.ooo:8080/3212571066/abc123/350981
 
+
+
+#EXTINF:1 tvg-id="CCTV1" tvg-logo="" group-title="13-KOREA-CHINA", CCTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=http://m.66zhibow.com/
+https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
+
+
 ##########################################################################
 
 #EXTINF:-0 group-title="AISPLAY PREMIUM" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",TLC
