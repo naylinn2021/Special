@@ -1663,6 +1663,11 @@ https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=113212d6576dd31f49
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11rRzbZkvI2x2pSjHEiiplFozEXewfd46MYF5cRuG6TBmXZuyqmlFp10&s" group-title="13-KOREA-CHINA",Henan Satellite TV
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=198db005dedcc98ae7554e83395cd60b&wsTime=1710752113
 
+#EXTINF:1 tvg-id="Beijing Satellite TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOgbSCZ-Aek2V7zEGoQFnbmK7Alz8PG6XqBDNY5XBEwj8gu45TG99Lvo&s" group-title="13-KOREA-CHINA", Beijing Satellite TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
+13.4.0.1306
+#EXTVLCOPT:http-referrer=http://player.200877926.top/
+http://221.228.254.102/downflv.brtvcloud.com/awudh/asiuwd.m3u8?txSecret=c3f38de816dc0fad433c3db3306bf8ee&txTime=65f7eed0
 
 ##########################################################################
 
