@@ -618,7 +618,9 @@ https://streammain.myanmartvchannels.com:999/website-buddha-stream/website-buddh
 
 
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="1-BUDDHA",မဟာဗောဓိ
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
+http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fm6pCcuwnn6ZkKNFFF0R4iY/ts
+#EXTVLCOPT:http-referrer=http://bananatv.org:25461/
+http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fm6pCcuwnn6ZkKNFFF0R4iY/ts
 
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="1-BUDDHA",မဟာဗောဓိ
 http://ppradio.b-cdn.net:80/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
