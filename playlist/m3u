@@ -1323,7 +1323,8 @@ https://ctrl.laotv.la/live/Discovery/index.m3u8
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.laotv.la
 https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-
+#EXTVLCOPT:http-referrer=http://bananatv.org
+http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fkoj2-CgADgsxXOBD3QH1Vo/ts
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_GlbEVRvLJfLTPC2rfWJ--26URT1-Uvpqw&usqp=CAU" group-title="8-G⚽LD D⚽C", AnimalShow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
 13.4.0.1306
