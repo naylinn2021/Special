@@ -1317,6 +1317,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 13.4.0.1306
 #EXTVLCOPT:http-referrer=https://www.laotv.la
 https://ctrl.laotv.la/live/Discovery/index.m3u8
+#EXTVLCOPT:http-referrer=http://bananatv.org
+http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fiSj8dwnx4NesKBmp8L-MIw/ts
 
 #EXTINF:1 tvg-id="ANIMALPLANET" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="8-G⚽LD D⚽C", AnimalPlanet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.178 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
