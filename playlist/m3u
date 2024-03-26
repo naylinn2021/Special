@@ -649,6 +649,11 @@ http://l1-xl1.myanmarnet.com:80/relay/music/ch1/stream_hi/index.m3u8
 #EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MWD CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVRJMSICfTTql1SYpoyFGq1B42B2FS_icurINk2Vl0A&s" group-title="2-FREE MM",MWD CHANNEL
 http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fkjEayRFaHX-z_mUaA2y51k/ts
 
+
+#EXT-X-SESSION-DATA:DATA-ID=""
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="MWD CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVRJMSICfTTql1SYpoyFGq1B42B2FS_icurINk2Vl0A&s" group-title="2-FREE MM",MWD CHANNEL
+http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fkjEayRFaHX-z_mUaA2y51k/ts
+
 #EXTINF:-1 xui-id="20" tvg-id="" tvg-name="MRTV News HD" tvg-logo="https://www.dropbox.com/scl/fi/8k64edo3tzqwi12axm2wb/20231004_194011_0000.jpg?rlkey=bb6g295vwqzi966d55492iogq&dl=1" group-title="2-FREE MM",MRTV News HD
 https://l1-xl1.myanmarnet.com/relay/mrtvhd/ch1/stream_hi/index.m3u8
 
