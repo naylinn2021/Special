@@ -2176,10 +2176,9 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd?|user-agent=E
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd 
 
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="" group-title="MYANMAR SPORT", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36 Maxthon/5.2.7.3000 UC/
-13.4.0.1306 ExoPlayerLib/2.15.1
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="" group-title="MYANMAR SPORT", TEST TEST
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1&drmScheme=clearkey&drmLicense=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd 
-#drmScheme=clearkey&drmLicense=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
 
 
