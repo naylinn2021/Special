@@ -629,7 +629,7 @@ http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fm6pCcuwnn6ZkKNFFF0R4iY/ts
 
 
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="1-BUDDHA",မဟာဗောဓိ
-http://ppradio.b-cdn.net:80/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
 
 
@@ -652,15 +652,11 @@ http://l1-xl1.myanmarnet.com:80/relay/music/ch1/stream_hi/index.m3u8
 http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fkjEayRFaHX-z_mUaA2y51k/ts
 
 
-#EXT-X-SESSION-DATA:DATA-ID=""
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="MWD CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVRJMSICfTTql1SYpoyFGq1B42B2FS_icurINk2Vl0A&s" group-title="2-FREE MM",MWD CHANNEL
-http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fkjEayRFaHX-z_mUaA2y51k/ts
-
 #EXTINF:-1 xui-id="20" tvg-id="" tvg-name="MRTV News HD" tvg-logo="https://www.dropbox.com/scl/fi/8k64edo3tzqwi12axm2wb/20231004_194011_0000.jpg?rlkey=bb6g295vwqzi966d55492iogq&dl=1" group-title="2-FREE MM",MRTV News HD
 https://l1-xl1.myanmarnet.com/relay/mrtvhd/ch1/stream_hi/index.m3u8
 
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MRTV-4 HD" tvg-logo="https://www.dropbox.com/scl/fi/gebboxqlfnw01xb3aje8a/HD_20231004_212955_0000.jpg?rlkey=4l12o3fh74sbufm5p4pjvs9fp&dl=1" group-title="2-FREE MM",MRTV-4 HD
-http://ppradio.b-cdn.net:80/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 
 #EXTINF:-1 xui-id="6559" tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="2-FREE MM",MRTV-4
 
