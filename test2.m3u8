@@ -1,1 +1,5 @@
-https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|Origin=https://www.movie87hd.com/|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=960x540
+https://mhdsport.com/tv/sky-sport-f1/
