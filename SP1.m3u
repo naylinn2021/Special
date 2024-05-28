@@ -4,3 +4,28 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 #EXTINF:-1 xui-id="73" tvg-id="" tvg-name="ManU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTvtFC8Zet_YL95w6V_Xt6PIdEzwupBIXBkxQ2XBxSQ&s" group-title="01 LIVE",5_MUTV
 https://www.inwiptv.com:443/player_demo.php?channel=89782
+
+#EXTINF:-1 group-title="01 LIVE" tvg-id="SSC EXTRA 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png", ARENA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 group-title="01 LIVE" tvg-id="SSC EXTRA 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png", ARENA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https:////webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 group-title="01 LIVE" tvg-id="SSC EXTRA 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png", ARENA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 group-title="01 LIVE" tvg-id="SSC EXTRA 3" tvg-logo="https://mediadaily.biz/wp-content/uploads/2022/03/ARENA-SPORT-PREMIUM-1.png", ARENA PRE1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 group-title="01 LIVE" tvg-id="SSC EXTRA 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png", ARENA PRE2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
